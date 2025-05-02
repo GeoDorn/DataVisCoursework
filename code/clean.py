@@ -47,11 +47,11 @@ def load_data():
     return df1, df2, df3, df4, df5, df6
 
 def clear_empty_rows(df1, df2, df3, df4, df5, df6):
-    df1 = df1.dropna()
+    df1 = df1.fillna(0)
     print("Confirmed Cases cleaned")
-    df2 = df2.dropna()
+    df2 = df2.fillna(0)
     print("Deaths cleaned")
-    df3 = df3.dropna()
+    df3 = df3.fillna(0)
     print("Recovered cleaned")
     df4 = df4.fillna(0)
     print("Vaccines cleaned")
@@ -122,7 +122,7 @@ if __name__ == "__main__":
     df1, df2, df3, df4, df6 = convert_date(df1, df2, df3, df4, df6)
     df6['Value'] = df6['Value'].replace('..', pd.NA)
     df6['Value'] = pd.to_numeric(df6['Value'], errors='coerce')
-    
+
     # Save cleaned data
     df1.to_csv(os.path.join(output_folder, "cleaned_confirmed_cases.csv"), index=False)
     df2.to_csv(os.path.join(output_folder, "cleaned_deaths_long.csv"), index=False)   
