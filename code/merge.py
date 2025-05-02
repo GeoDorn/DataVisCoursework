@@ -34,7 +34,7 @@ df_merged['Year'] = df_merged['Date'].dt.year
 
 # Merge the combined COVID data with the pivoted economic data
 df_combined = pd.merge(df_merged, df_economic_pivot, on=['Country/Region', 'Year'], how='outer')
-df_combined = df_combined.dropna()
+#df_combined = df_combined.fillna('NaN')
 # Display columns and their data types
 print("\nCombined DataFrame Information:")
 print(df_combined.info())
