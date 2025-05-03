@@ -57,7 +57,7 @@ def clear_empty_rows(df1, df2, df3, df4, df5, df6):
     print("Vaccines cleaned")
     #df5 = df5.fillna(0)
     #print("Doses Administered cleaned")
-    df6 = df6.dropna()
+    #df6 = df6.dropna()
     print("Economic Indicators cleaned")
     return df1, df2, df3, df4, df5, df6
 

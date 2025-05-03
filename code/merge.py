@@ -32,6 +32,7 @@ df_merged = pd.merge(df_merged, df_vaccine, on=['Country/Region', 'Date'], how='
 # Extract Year from the Date column in the merged COVID DataFrame
 df_merged['Year'] = df_merged['Date'].dt.year
 
+
 # Merge the combined COVID data with the pivoted economic data
 df_combined = pd.merge(df_merged, df_economic_pivot, on=['Country/Region', 'Year'], how='outer')
 #df_combined = df_combined.fillna('NaN')
@@ -46,6 +47,7 @@ print(f"Rows: {df_combined.shape[0]}, Columns: {df_combined.shape[1]}")
 # Display the date range in the combined DataFrame
 min_date = df_combined['Date'].dropna().min()
 max_date = df_combined['Date'].dropna().max()
+df_combined = df_combined[~df_combined['Country/Region'].isin(['Winter Olympics 2022', 'Summer Olympics 2020'])]
 print(f"\nDate range in Combined DataFrame: {min_date} to {max_date}")
 df_combined.to_csv(os.path.join(output_folder, "combined_dataset.csv"), index=False)
 
