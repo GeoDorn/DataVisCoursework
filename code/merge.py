@@ -19,7 +19,10 @@ df_vaccine['Date'] = pd.to_datetime(df_vaccine['Date'])
 
 # Pivot the economic DataFrame to have indicators as columns
 df_economic_pivot = df_economic.pivot_table(index=['Country/Region', 'Year'], columns='Series Name', values='Value').reset_index()
-
+if 'Country/Region' in df_economic_pivot.columns:
+      df_economic_pivot.loc[df_economic_pivot['Country/Region'] == 'Venezuela RB', 'Country/Region'] = 'Venezuela'
+      df_economic_pivot.loc[df_economic_pivot['Country/Region'] == 'Korea, Rep', 'Country/Region'] = 'South Korea'
+      df_economic_pivot.loc[df_economic_pivot['Country/Region'] == "Korea, Dem. People's Rep.", 'Country/Region'] = 'North Korea'
 # --- Merging DataFrames ---
 # Merge the COVID related DataFrames (cases, deaths, recovered, vaccine)
 # Start with merging cases and deaths
@@ -28,7 +31,13 @@ df_merged = pd.merge(df_cases, df_deaths, on=['Country/Region', 'Date'], how='ou
 df_merged = pd.merge(df_merged, df_recovered, on=['Country/Region', 'Date'], how='outer')
 # Merge with vaccine data
 df_merged = pd.merge(df_merged, df_vaccine, on=['Country/Region', 'Date'], how='outer')
-
+if 'Country/Region' in df_merged.columns:
+      df_merged.loc[df_merged['Country/Region'] == 'US', 'Country/Region'] = 'United States'
+      df_merged.loc[df_merged['Country/Region'] == 'Turkey', 'Country/Region'] = 'Turkiye'
+      df_merged.loc[df_merged['Country/Region'] == 'Korea, South', 'Country/Region'] = 'South Korea'
+      df_merged.loc[df_merged['Country/Region'] == 'Korea, North', 'Country/Region'] = 'North Korea'
+      
+    
 # Extract Year from the Date column in the merged COVID DataFrame
 df_merged['Year'] = df_merged['Date'].dt.year
 
@@ -48,6 +57,8 @@ print(f"Rows: {df_combined.shape[0]}, Columns: {df_combined.shape[1]}")
 min_date = df_combined['Date'].dropna().min()
 max_date = df_combined['Date'].dropna().max()
 df_combined = df_combined[~df_combined['Country/Region'].isin(['Winter Olympics 2022', 'Summer Olympics 2020'])]
+df_combined = df_combined.drop(columns=['Year'])
+df_combined = df_combined.dropna()
 print(f"\nDate range in Combined DataFrame: {min_date} to {max_date}")
 df_combined.to_csv(os.path.join(output_folder, "combined_dataset.csv"), index=False)
 
