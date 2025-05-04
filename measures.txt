@@ -1,0 +1,7 @@
+Daily Death Change = 
+VAR CurrentDate = MAX('combined_dataset'[Date])
+VAR PreviousDate = CALCULATE(MAX('combined_dataset'[Date]), FILTER(ALL('combined_dataset'), 'combined_dataset'[Date] < CurrentDate))
+VAR CurrentDeaths = SUM('combined_dataset'[Deaths])
+VAR PreviousDeaths = CALCULATE(SUM('combined_dataset'[Deaths]), FILTER(ALL('combined_dataset'), 'combined_dataset'[Date] = PreviousDate))
+RETURN CurrentDeaths - PreviousDeaths
+

@@ -53,10 +53,10 @@ def clear_empty_rows(df1, df2, df3, df4, df5, df6):
     print("Deaths cleaned")
     df3 = df3.fillna(0)
     print("Recovered cleaned")
-    df4 = df4.fillna(0)
+    #df4 = df4.fillna(0)
     print("Vaccines cleaned")
     #df5 = df5.fillna(0)
-    #print("Doses Administered cleaned")
+    print("Doses Administered cleaned")
     #df6 = df6.dropna()
     print("Economic Indicators cleaned")
     return df1, df2, df3, df4, df5, df6
@@ -65,8 +65,8 @@ def drop_columns(df1, df2, df3, df4, df5, df6):
     df1 = df1.drop(columns=['Province/State', 'Lat', 'Long'])
     df2 = df2.drop(columns=['Province/State', 'Lat', 'Long'])
     df3 = df3.drop(columns=['Province/State', 'Lat', 'Long'])
-    df4 = df4.drop(columns=['UID', 'Province_State'])
-    #df5 = df5.drop(columns=['UID', 'iso2', 'iso3', 'code3', 'FIPS', 'Admin2', 'Lat', 'Long_', 'Combined_Key'])
+    df4 = df4.drop(columns=['UID', 'Province_State', 'Doses_admin'])
+    df5 = df5.drop(columns=['UID', 'iso2', 'iso3', 'code3', 'FIPS', 'Admin2', 'Lat', 'Long_', 'Combined_Key', 'Province_State'])
     df6 = df6.drop(columns=['Series Code', 'Country Code'])
 
     return df1, df2, df3, df4, df5, df6
@@ -74,7 +74,7 @@ def drop_columns(df1, df2, df3, df4, df5, df6):
 def rename_columns(df4, df5, df6):
     
     df4 = df4.rename(columns={'Country_Region': 'Country/Region'})
-    #df5 = df5.rename(columns={'Country_Region': 'Country/Region'})
+    df5 = df5.rename(columns={'Country_Region': 'Country/Region'})
     df6 = df6.rename(columns={'Country Name': 'Country/Region','2020 [YR2020]': 'Year_2020', '2021 [YR2021]': 'Year_2021', '2022 [YR2022]': 'Year_2022', '2023 [YR2023]': 'Year_2023'})
     
     return df4, df5, df6
@@ -84,7 +84,7 @@ def group_by_country(df1, df2, df3, df4, df5, df6):
     df2 = df2.groupby(['Country/Region']).sum().reset_index()
     df3 = df3.groupby(['Country/Region']).sum().reset_index()
     #df4 = df4.groupby(['Country/Region']).sum().reset_index()
-    #df5 = df5.groupby(['Country/Region']).sum().reset_index()
+    df5 = df5.groupby(['Country/Region']).sum().reset_index()
     #df6 = df6.groupby(['Country/Region']).sum().reset_index()
     return df1, df2, df3, df4, df5, df6
 
@@ -94,7 +94,7 @@ def wide_to_long(df1, df2, df3, df4, df5, df6):
     df1 = pd.melt(df1, id_vars=['Country/Region'], var_name='Date', value_name='Confirmed')
     df2 = pd.melt(df2, id_vars=['Country/Region'], var_name='Date', value_name='Deaths')
     df3 = pd.melt(df3, id_vars=['Country/Region'], var_name='Date', value_name='Recovered')
-    #df5 = pd.melt(df5, id_vars=['Country/Region'], var_name='Date', value_name='Doses Administered')
+    df5 = pd.melt(df5, id_vars=['Country/Region', 'Population'], var_name='Date', value_name='Doses Administered')
     df6 = pd.melt(df6, id_vars=['Series Name', 'Country/Region'],
                   value_vars=['Year_2020', 'Year_2021', 'Year_2022', 'Year_2023'],
                   var_name='Year',
@@ -128,5 +128,5 @@ if __name__ == "__main__":
     df2.to_csv(os.path.join(output_folder, "cleaned_deaths_long.csv"), index=False)   
     df3.to_csv(os.path.join(output_folder, "cleaned_recovered_long.csv"), index=False)
     df4.to_csv(os.path.join(output_folder, "cleaned_vaccine_long.csv"), index=False)
-    #df5.to_csv(os.path.join(output_folder, "cleaned_vaccine_doses_long.csv"), index=False)
+    df5.to_csv(os.path.join(output_folder, "cleaned_vaccine_doses_long.csv"), index=False)
     df6.to_csv(os.path.join(output_folder, "cleaned_economic_indicators_long.csv"), index=False)
