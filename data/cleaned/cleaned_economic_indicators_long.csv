@@ -12,7 +12,7 @@ GDP growth (annual %),Aruba,2020,-26.2118207828803
 GDP growth (annual %),Australia,2020,-0.119590735829973
 GDP growth (annual %),Austria,2020,-6.31825528670208
 GDP growth (annual %),Azerbaijan,2020,-4.30000010230737
-GDP growth (annual %),"Bahamas, The",2020,-21.4234630658488
+GDP growth (annual %),Bahamas,2020,-21.4234630658488
 GDP growth (annual %),Bahrain,2020,-5.9113629524152
 GDP growth (annual %),Bangladesh,2020,3.44801755122445
 GDP growth (annual %),Barbados,2020,-15.0543629495892
@@ -27,7 +27,7 @@ GDP growth (annual %),Bosnia and Herzegovina,2020,-3.01509514759861
 GDP growth (annual %),Botswana,2020,-8.72875252639037
 GDP growth (annual %),Brazil,2020,-3.2767587964736
 GDP growth (annual %),British Virgin Islands,2020,
-GDP growth (annual %),Brunei Darussalam,2020,1.13357340605403
+GDP growth (annual %),Brunei,2020,1.13357340605403
 GDP growth (annual %),Bulgaria,2020,-3.21573743445016
 GDP growth (annual %),Burkina Faso,2020,2.01077262406221
 GDP growth (annual %),Burundi,2020,0.327156892638385
@@ -43,8 +43,8 @@ GDP growth (annual %),Chile,2020,-6.14347479224092
 GDP growth (annual %),China,2020,2.23863835634639
 GDP growth (annual %),Colombia,2020,-7.18591413760859
 GDP growth (annual %),Comoros,2020,-0.195556827149787
-GDP growth (annual %),"Congo, Dem. Rep.",2020,1.73542276681493
-GDP growth (annual %),"Congo, Rep.",2020,-6.26777227963225
+GDP growth (annual %),Congo (Kinshasa),2020,1.73542276681493
+GDP growth (annual %),Congo (Brazzaville),2020,-6.26777227963225
 GDP growth (annual %),Costa Rica,2020,-4.27335432161462
 GDP growth (annual %),Cote d'Ivoire,2020,0.699728593494228
 GDP growth (annual %),Croatia,2020,-8.31164257884687
@@ -57,7 +57,7 @@ GDP growth (annual %),Djibouti,2020,1.31636324158441
 GDP growth (annual %),Dominica,2020,-16.6041095231221
 GDP growth (annual %),Dominican Republic,2020,-6.72023937283404
 GDP growth (annual %),Ecuador,2020,-9.24509637743429
-GDP growth (annual %),"Egypt, Arab Rep.",2020,3.55016483786838
+GDP growth (annual %),Egypt,2020,3.55016483786838
 GDP growth (annual %),El Salvador,2020,-7.893101359867
 GDP growth (annual %),Equatorial Guinea,2020,-4.79108083383294
 GDP growth (annual %),Eritrea,2020,
@@ -69,7 +69,7 @@ GDP growth (annual %),Finland,2020,-2.49103620977239
 GDP growth (annual %),France,2020,-7.44064593044142
 GDP growth (annual %),French Polynesia,2020,-7.05099065433484
 GDP growth (annual %),Gabon,2020,-1.8377610635094
-GDP growth (annual %),"Gambia, The",2020,0.591487287873974
+GDP growth (annual %),Gambia,2020,0.591487287873974
 GDP growth (annual %),Georgia,2020,-6.2904717853839
 GDP growth (annual %),Germany,2020,-4.09513749064689
 GDP growth (annual %),Ghana,2020,0.513941670628171
@@ -89,7 +89,7 @@ GDP growth (annual %),Hungary,2020,-4.48704604765308
 GDP growth (annual %),Iceland,2020,-6.94045309489034
 GDP growth (annual %),India,2020,-5.77772470686801
 GDP growth (annual %),Indonesia,2020,-2.06551182934165
-GDP growth (annual %),"Iran, Islamic Rep.",2020,3.33028845926594
+GDP growth (annual %),Iran,2020,3.33028845926594
 GDP growth (annual %),Iraq,2020,-12.0367930931001
 GDP growth (annual %),Ireland,2020,7.15789883057209
 GDP growth (annual %),Isle of Man,2020,-8.8368174000649
@@ -102,11 +102,11 @@ GDP growth (annual %),Kazakhstan,2020,-2.49999999628
 GDP growth (annual %),Kenya,2020,-0.272766327438816
 GDP growth (annual %),Kiribati,2020,-0.562016449352072
 GDP growth (annual %),"Korea, Dem. People's Rep.",2020,
-GDP growth (annual %),"Korea, Rep.",2020,-0.709415359397681
+GDP growth (annual %),South Korea,2020,-0.709415359397681
 GDP growth (annual %),Kosovo,2020,-5.34027547826166
 GDP growth (annual %),Kuwait,2020,-4.81742860622226
 GDP growth (annual %),Kyrgyz Republic,2020,-7.14897757727955
-GDP growth (annual %),Lao PDR,2020,0.503031829018681
+GDP growth (annual %),Laos,2020,0.503031829018681
 GDP growth (annual %),Latvia,2020,-3.46922915339618
 GDP growth (annual %),Lebanon,2020,-21.3998996914321
 GDP growth (annual %),Lesotho,2020,-8.15595879914267
@@ -127,7 +127,7 @@ GDP growth (annual %),Marshall Islands,2020,-2.77288732394366
 GDP growth (annual %),Mauritania,2020,-0.360657384151068
 GDP growth (annual %),Mauritius,2020,-14.5465381490166
 GDP growth (annual %),Mexico,2020,-8.3540345574586
-GDP growth (annual %),"Micronesia, Fed. Sts.",2020,-1.9607843137255
+GDP growth (annual %),Micronesia,2020,-1.9607843137255
 GDP growth (annual %),Moldova,2020,-8.27597831976949
 GDP growth (annual %),Monaco,2020,-13.2391048292108
 GDP growth (annual %),Mongolia,2020,-4.55775197583431
@@ -159,7 +159,7 @@ GDP growth (annual %),Portugal,2020,-8.20463206255478
 GDP growth (annual %),Puerto Rico,2020,-4.1808743093346
 GDP growth (annual %),Qatar,2020,-3.55760399909477
 GDP growth (annual %),Romania,2020,-3.67438440910189
-GDP growth (annual %),Russian Federation,2020,-2.65365450102773
+GDP growth (annual %),Russia,2020,-2.65365450102773
 GDP growth (annual %),Rwanda,2020,-3.37368746369782
 GDP growth (annual %),Samoa,2020,-3.10844401053139
 GDP growth (annual %),San Marino,2020,-6.64791081780605
@@ -171,7 +171,7 @@ GDP growth (annual %),Seychelles,2020,-11.7398608281732
 GDP growth (annual %),Sierra Leone,2020,-1.2533490322766
 GDP growth (annual %),Singapore,2020,-3.86979893430043
 GDP growth (annual %),Sint Maarten (Dutch part),2020,-13.3167887221567
-GDP growth (annual %),Slovak Republic,2020,-2.5855125291319
+GDP growth (annual %),Slovakia,2020,-2.5855125291319
 GDP growth (annual %),Slovenia,2020,-4.08499815297814
 GDP growth (annual %),Solomon Islands,2020,-3.3811475409836
 GDP growth (annual %),Somalia,2020,-2.75248103927831
@@ -188,7 +188,7 @@ GDP growth (annual %),Suriname,2020,-15.9751917148622
 GDP growth (annual %),Eswatini,2020,-2.88706296038356
 GDP growth (annual %),Sweden,2020,-2.00533750353763
 GDP growth (annual %),Switzerland,2020,-2.14173720650054
-GDP growth (annual %),Syrian Arab Republic,2020,-0.697154504235129
+GDP growth (annual %),Syria,2020,-0.697154504235129
 GDP growth (annual %),Tajikistan,2020,4.40000111553493
 GDP growth (annual %),Tanzania,2020,1.99196460647855
 GDP growth (annual %),Thailand,2020,-6.05003846851622
@@ -197,7 +197,7 @@ GDP growth (annual %),Togo,2020,1.99215501870344
 GDP growth (annual %),Tonga,2020,1.78339492959161
 GDP growth (annual %),Trinidad and Tobago,2020,-9.07787689348437
 GDP growth (annual %),Tunisia,2020,-9.01193412390238
-GDP growth (annual %),Turkiye,2020,1.85987303976462
+GDP growth (annual %),Turkey,2020,1.85987303976462
 GDP growth (annual %),Turkmenistan,2020,5.900000048526
 GDP growth (annual %),Turks and Caicos Islands,2020,-26.782932872099
 GDP growth (annual %),Tuvalu,2020,-4.27493206901397
@@ -209,8 +209,8 @@ GDP growth (annual %),United States,2020,-2.16302913866514
 GDP growth (annual %),Uruguay,2020,-7.38014184479323
 GDP growth (annual %),Uzbekistan,2020,1.56334277259953
 GDP growth (annual %),Vanuatu,2020,-4.99249142889525
-GDP growth (annual %),"Venezuela, RB",2020,
-GDP growth (annual %),Viet Nam,2020,2.86541320912272
+GDP growth (annual %),Venezuela,2020,
+GDP growth (annual %),Vietnam,2020,2.86541320912272
 GDP growth (annual %),Virgin Islands (U.S.),2020,-1.61493817814787
 GDP growth (annual %),West Bank and Gaza,2020,-11.3184661065134
 GDP growth (annual %),"Yemen, Rep.",2020,
@@ -229,7 +229,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Australia,2020,0.846905537459305
 "Inflation, consumer prices (annual %)",Austria,2020,1.38191063351862
 "Inflation, consumer prices (annual %)",Azerbaijan,2020,2.75980947008127
-"Inflation, consumer prices (annual %)","Bahamas, The",2020,0.0385210980054558
+"Inflation, consumer prices (annual %)",Bahamas,2020,0.0385210980054558
 "Inflation, consumer prices (annual %)",Bahrain,2020,-2.31770629331379
 "Inflation, consumer prices (annual %)",Bangladesh,2020,5.69107474746211
 "Inflation, consumer prices (annual %)",Barbados,2020,
@@ -244,7 +244,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Botswana,2020,1.8903591682421
 "Inflation, consumer prices (annual %)",Brazil,2020,3.21176803803376
 "Inflation, consumer prices (annual %)",British Virgin Islands,2020,
-"Inflation, consumer prices (annual %)",Brunei Darussalam,2020,1.94031996607184
+"Inflation, consumer prices (annual %)",Brunei,2020,1.94031996607184
 "Inflation, consumer prices (annual %)",Bulgaria,2020,1.67244096855756
 "Inflation, consumer prices (annual %)",Burkina Faso,2020,1.88443993781991
 "Inflation, consumer prices (annual %)",Burundi,2020,7.32110643415521
@@ -260,8 +260,8 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",China,2020,2.41942189457782
 "Inflation, consumer prices (annual %)",Colombia,2020,2.52663500084706
 "Inflation, consumer prices (annual %)",Comoros,2020,
-"Inflation, consumer prices (annual %)","Congo, Dem. Rep.",2020,
-"Inflation, consumer prices (annual %)","Congo, Rep.",2020,1.79537147083108
+"Inflation, consumer prices (annual %)",Congo (Kinshasa),2020,
+"Inflation, consumer prices (annual %)",Congo (Brazzaville),2020,1.79537147083108
 "Inflation, consumer prices (annual %)",Costa Rica,2020,0.724911478131376
 "Inflation, consumer prices (annual %)",Cote d'Ivoire,2020,2.42500656821815
 "Inflation, consumer prices (annual %)",Croatia,2020,0.154811374562106
@@ -274,7 +274,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Dominica,2020,-0.727116412668203
 "Inflation, consumer prices (annual %)",Dominican Republic,2020,3.78103179915517
 "Inflation, consumer prices (annual %)",Ecuador,2020,-0.338872392562139
-"Inflation, consumer prices (annual %)","Egypt, Arab Rep.",2020,5.04493288977539
+"Inflation, consumer prices (annual %)",Egypt,2020,5.04493288977539
 "Inflation, consumer prices (annual %)",El Salvador,2020,-0.371590212324095
 "Inflation, consumer prices (annual %)",Equatorial Guinea,2020,4.76669523944228
 "Inflation, consumer prices (annual %)",Eritrea,2020,
@@ -286,7 +286,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",France,2020,0.476498852725066
 "Inflation, consumer prices (annual %)",French Polynesia,2020,
 "Inflation, consumer prices (annual %)",Gabon,2020,1.35276110675333
-"Inflation, consumer prices (annual %)","Gambia, The",2020,5.93127636562441
+"Inflation, consumer prices (annual %)",Gambia,2020,5.93127636562441
 "Inflation, consumer prices (annual %)",Georgia,2020,5.2024648897534
 "Inflation, consumer prices (annual %)",Germany,2020,0.144877925813982
 "Inflation, consumer prices (annual %)",Ghana,2020,9.88728956269944
@@ -306,7 +306,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Iceland,2020,2.84792401518665
 "Inflation, consumer prices (annual %)",India,2020,6.62343677628535
 "Inflation, consumer prices (annual %)",Indonesia,2020,1.9209680056685
-"Inflation, consumer prices (annual %)","Iran, Islamic Rep.",2020,30.5941390387295
+"Inflation, consumer prices (annual %)",Iran,2020,30.5941390387295
 "Inflation, consumer prices (annual %)",Iraq,2020,0.574162679425795
 "Inflation, consumer prices (annual %)",Ireland,2020,-0.326183651280033
 "Inflation, consumer prices (annual %)",Isle of Man,2020,
@@ -319,11 +319,11 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Kenya,2020,5.40516207933392
 "Inflation, consumer prices (annual %)",Kiribati,2020,2.5532455441463
 "Inflation, consumer prices (annual %)","Korea, Dem. People's Rep.",2020,
-"Inflation, consumer prices (annual %)","Korea, Rep.",2020,0.537288023411737
+"Inflation, consumer prices (annual %)",South Korea,2020,0.537288023411737
 "Inflation, consumer prices (annual %)",Kosovo,2020,0.198227922994854
 "Inflation, consumer prices (annual %)",Kuwait,2020,2.101729548274
 "Inflation, consumer prices (annual %)",Kyrgyz Republic,2020,6.32542296338078
-"Inflation, consumer prices (annual %)",Lao PDR,2020,5.10407262959919
+"Inflation, consumer prices (annual %)",Laos,2020,5.10407262959919
 "Inflation, consumer prices (annual %)",Latvia,2020,0.219064904842156
 "Inflation, consumer prices (annual %)",Lebanon,2020,84.8643330472041
 "Inflation, consumer prices (annual %)",Lesotho,2020,4.97809676252309
@@ -344,7 +344,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Mauritania,2020,2.3856948845632
 "Inflation, consumer prices (annual %)",Mauritius,2020,2.58080077182822
 "Inflation, consumer prices (annual %)",Mexico,2020,3.39683415570006
-"Inflation, consumer prices (annual %)","Micronesia, Fed. Sts.",2020,0.554594630853174
+"Inflation, consumer prices (annual %)",Micronesia,2020,0.554594630853174
 "Inflation, consumer prices (annual %)",Moldova,2020,3.76597122245358
 "Inflation, consumer prices (annual %)",Monaco,2020,
 "Inflation, consumer prices (annual %)",Mongolia,2020,3.79604026111247
@@ -376,7 +376,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Puerto Rico,2020,
 "Inflation, consumer prices (annual %)",Qatar,2020,-2.5403150300476
 "Inflation, consumer prices (annual %)",Romania,2020,2.63107311184743
-"Inflation, consumer prices (annual %)",Russian Federation,2020,3.38165937237898
+"Inflation, consumer prices (annual %)",Russia,2020,3.38165937237898
 "Inflation, consumer prices (annual %)",Rwanda,2020,9.85039902274207
 "Inflation, consumer prices (annual %)",Samoa,2020,-1.56891247740895
 "Inflation, consumer prices (annual %)",San Marino,2020,-0.133368898372915
@@ -388,7 +388,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Sierra Leone,2020,13.4468711101052
 "Inflation, consumer prices (annual %)",Singapore,2020,-0.181916666666634
 "Inflation, consumer prices (annual %)",Sint Maarten (Dutch part),2020,
-"Inflation, consumer prices (annual %)",Slovak Republic,2020,1.93694126694223
+"Inflation, consumer prices (annual %)",Slovakia,2020,1.93694126694223
 "Inflation, consumer prices (annual %)",Slovenia,2020,-0.05485681576061
 "Inflation, consumer prices (annual %)",Solomon Islands,2020,2.96354992076065
 "Inflation, consumer prices (annual %)",Somalia,2020,
@@ -405,7 +405,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Eswatini,2020,
 "Inflation, consumer prices (annual %)",Sweden,2020,0.497367318853572
 "Inflation, consumer prices (annual %)",Switzerland,2020,-0.725874933313384
-"Inflation, consumer prices (annual %)",Syrian Arab Republic,2020,
+"Inflation, consumer prices (annual %)",Syria,2020,
 "Inflation, consumer prices (annual %)",Tajikistan,2020,
 "Inflation, consumer prices (annual %)",Tanzania,2020,3.29029062798325
 "Inflation, consumer prices (annual %)",Thailand,2020,-0.845937147357041
@@ -414,7 +414,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Tonga,2020,-0.349737696727496
 "Inflation, consumer prices (annual %)",Trinidad and Tobago,2020,0.598986330824643
 "Inflation, consumer prices (annual %)",Tunisia,2020,5.63415115897625
-"Inflation, consumer prices (annual %)",Turkiye,2020,12.2789574462574
+"Inflation, consumer prices (annual %)",Turkey,2020,12.2789574462574
 "Inflation, consumer prices (annual %)",Turkmenistan,2020,
 "Inflation, consumer prices (annual %)",Turks and Caicos Islands,2020,
 "Inflation, consumer prices (annual %)",Tuvalu,2020,
@@ -426,8 +426,8 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Inflation, consumer prices (annual %)",Uruguay,2020,9.75640636078194
 "Inflation, consumer prices (annual %)",Uzbekistan,2020,12.8677297362606
 "Inflation, consumer prices (annual %)",Vanuatu,2020,5.32935073101715
-"Inflation, consumer prices (annual %)","Venezuela, RB",2020,
-"Inflation, consumer prices (annual %)",Viet Nam,2020,3.22093436652514
+"Inflation, consumer prices (annual %)",Venezuela,2020,
+"Inflation, consumer prices (annual %)",Vietnam,2020,3.22093436652514
 "Inflation, consumer prices (annual %)",Virgin Islands (U.S.),2020,
 "Inflation, consumer prices (annual %)",West Bank and Gaza,2020,-0.735332001092191
 "Inflation, consumer prices (annual %)","Yemen, Rep.",2020,
@@ -446,7 +446,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Australia,2020,6.394
 "Unemployment, total (% of total labor force) (national estimate)",Austria,2020,5.201
 "Unemployment, total (% of total labor force) (national estimate)",Azerbaijan,2020,7.24
-"Unemployment, total (% of total labor force) (national estimate)","Bahamas, The",2020,
+"Unemployment, total (% of total labor force) (national estimate)",Bahamas,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Bahrain,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Bangladesh,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Barbados,2020,
@@ -461,7 +461,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Botswana,2020,21.017
 "Unemployment, total (% of total labor force) (national estimate)",Brazil,2020,13.697
 "Unemployment, total (% of total labor force) (national estimate)",British Virgin Islands,2020,
-"Unemployment, total (% of total labor force) (national estimate)",Brunei Darussalam,2020,7.409
+"Unemployment, total (% of total labor force) (national estimate)",Brunei,2020,7.409
 "Unemployment, total (% of total labor force) (national estimate)",Bulgaria,2020,5.125
 "Unemployment, total (% of total labor force) (national estimate)",Burkina Faso,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Burundi,2020,1.03
@@ -477,8 +477,8 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",China,2020,5.61
 "Unemployment, total (% of total labor force) (national estimate)",Colombia,2020,15.983
 "Unemployment, total (% of total labor force) (national estimate)",Comoros,2020,
-"Unemployment, total (% of total labor force) (national estimate)","Congo, Dem. Rep.",2020,1.466
-"Unemployment, total (% of total labor force) (national estimate)","Congo, Rep.",2020,
+"Unemployment, total (% of total labor force) (national estimate)",Congo (Kinshasa),2020,1.466
+"Unemployment, total (% of total labor force) (national estimate)",Congo (Brazzaville),2020,
 "Unemployment, total (% of total labor force) (national estimate)",Costa Rica,2020,16.432
 "Unemployment, total (% of total labor force) (national estimate)",Cote d'Ivoire,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Croatia,2020,7.507
@@ -491,7 +491,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Dominica,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Dominican Republic,2020,6.126
 "Unemployment, total (% of total labor force) (national estimate)",Ecuador,2020,6.116
-"Unemployment, total (% of total labor force) (national estimate)","Egypt, Arab Rep.",2020,7.974
+"Unemployment, total (% of total labor force) (national estimate)",Egypt,2020,7.974
 "Unemployment, total (% of total labor force) (national estimate)",El Salvador,2020,5.008
 "Unemployment, total (% of total labor force) (national estimate)",Equatorial Guinea,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Eritrea,2020,
@@ -503,7 +503,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",France,2020,8.01
 "Unemployment, total (% of total labor force) (national estimate)",French Polynesia,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Gabon,2020,
-"Unemployment, total (% of total labor force) (national estimate)","Gambia, The",2020,
+"Unemployment, total (% of total labor force) (national estimate)",Gambia,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Georgia,2020,11.734
 "Unemployment, total (% of total labor force) (national estimate)",Germany,2020,3.881
 "Unemployment, total (% of total labor force) (national estimate)",Ghana,2020,
@@ -523,7 +523,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Iceland,2020,5.478
 "Unemployment, total (% of total labor force) (national estimate)",India,2020,7.859
 "Unemployment, total (% of total labor force) (national estimate)",Indonesia,2020,4.255
-"Unemployment, total (% of total labor force) (national estimate)","Iran, Islamic Rep.",2020,9.687
+"Unemployment, total (% of total labor force) (national estimate)",Iran,2020,9.687
 "Unemployment, total (% of total labor force) (national estimate)",Iraq,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Ireland,2020,5.623
 "Unemployment, total (% of total labor force) (national estimate)",Isle of Man,2020,
@@ -536,11 +536,11 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Kenya,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Kiribati,2020,10.971
 "Unemployment, total (% of total labor force) (national estimate)","Korea, Dem. People's Rep.",2020,
-"Unemployment, total (% of total labor force) (national estimate)","Korea, Rep.",2020,3.931
+"Unemployment, total (% of total labor force) (national estimate)",South Korea,2020,3.931
 "Unemployment, total (% of total labor force) (national estimate)",Kosovo,2020,25.459
 "Unemployment, total (% of total labor force) (national estimate)",Kuwait,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Kyrgyz Republic,2020,5.945
-"Unemployment, total (% of total labor force) (national estimate)",Lao PDR,2020,
+"Unemployment, total (% of total labor force) (national estimate)",Laos,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Latvia,2020,8.098
 "Unemployment, total (% of total labor force) (national estimate)",Lebanon,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Lesotho,2020,
@@ -561,7 +561,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Mauritania,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Mauritius,2020,8.627
 "Unemployment, total (% of total labor force) (national estimate)",Mexico,2020,4.441
-"Unemployment, total (% of total labor force) (national estimate)","Micronesia, Fed. Sts.",2020,
+"Unemployment, total (% of total labor force) (national estimate)",Micronesia,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Moldova,2020,1.206
 "Unemployment, total (% of total labor force) (national estimate)",Monaco,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Mongolia,2020,6.413
@@ -593,7 +593,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Puerto Rico,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Qatar,2020,0.14
 "Unemployment, total (% of total labor force) (national estimate)",Romania,2020,5.035
-"Unemployment, total (% of total labor force) (national estimate)",Russian Federation,2020,5.62
+"Unemployment, total (% of total labor force) (national estimate)",Russia,2020,5.62
 "Unemployment, total (% of total labor force) (national estimate)",Rwanda,2020,11.829
 "Unemployment, total (% of total labor force) (national estimate)",Samoa,2020,
 "Unemployment, total (% of total labor force) (national estimate)",San Marino,2020,7.23
@@ -605,7 +605,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Sierra Leone,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Singapore,2020,4.1
 "Unemployment, total (% of total labor force) (national estimate)",Sint Maarten (Dutch part),2020,
-"Unemployment, total (% of total labor force) (national estimate)",Slovak Republic,2020,6.719
+"Unemployment, total (% of total labor force) (national estimate)",Slovakia,2020,6.719
 "Unemployment, total (% of total labor force) (national estimate)",Slovenia,2020,4.971
 "Unemployment, total (% of total labor force) (national estimate)",Solomon Islands,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Somalia,2020,
@@ -622,7 +622,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Eswatini,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Sweden,2020,8.291
 "Unemployment, total (% of total labor force) (national estimate)",Switzerland,2020,4.817
-"Unemployment, total (% of total labor force) (national estimate)",Syrian Arab Republic,2020,
+"Unemployment, total (% of total labor force) (national estimate)",Syria,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Tajikistan,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Tanzania,2020,2.781
 "Unemployment, total (% of total labor force) (national estimate)",Thailand,2020,1.099
@@ -631,7 +631,7 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Tonga,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Trinidad and Tobago,2020,4.206
 "Unemployment, total (% of total labor force) (national estimate)",Tunisia,2020,
-"Unemployment, total (% of total labor force) (national estimate)",Turkiye,2020,13.148
+"Unemployment, total (% of total labor force) (national estimate)",Turkey,2020,13.148
 "Unemployment, total (% of total labor force) (national estimate)",Turkmenistan,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Turks and Caicos Islands,2020,
 "Unemployment, total (% of total labor force) (national estimate)",Tuvalu,2020,
@@ -643,8 +643,8 @@ GDP growth (annual %),Zimbabwe,2020,-7.81695064681365
 "Unemployment, total (% of total labor force) (national estimate)",Uruguay,2020,10.413
 "Unemployment, total (% of total labor force) (national estimate)",Uzbekistan,2020,5.293
 "Unemployment, total (% of total labor force) (national estimate)",Vanuatu,2020,4.046
-"Unemployment, total (% of total labor force) (national estimate)","Venezuela, RB",2020,7.53
-"Unemployment, total (% of total labor force) (national estimate)",Viet Nam,2020,2.103
+"Unemployment, total (% of total labor force) (national estimate)",Venezuela,2020,7.53
+"Unemployment, total (% of total labor force) (national estimate)",Vietnam,2020,2.103
 "Unemployment, total (% of total labor force) (national estimate)",Virgin Islands (U.S.),2020,
 "Unemployment, total (% of total labor force) (national estimate)",West Bank and Gaza,2020,25.895
 "Unemployment, total (% of total labor force) (national estimate)","Yemen, Rep.",2020,
@@ -668,7 +668,7 @@ GDP growth (annual %),Aruba,2021,24.1326273569798
 GDP growth (annual %),Australia,2021,2.11116814768786
 GDP growth (annual %),Austria,2021,4.79532910551458
 GDP growth (annual %),Azerbaijan,2021,5.61645102853028
-GDP growth (annual %),"Bahamas, The",2021,15.4031489427848
+GDP growth (annual %),Bahamas,2021,15.4031489427848
 GDP growth (annual %),Bahrain,2021,4.35004091668986
 GDP growth (annual %),Bangladesh,2021,6.93867912442445
 GDP growth (annual %),Barbados,2021,-0.254965880216531
@@ -683,7 +683,7 @@ GDP growth (annual %),Bosnia and Herzegovina,2021,7.38996234012757
 GDP growth (annual %),Botswana,2021,11.9206365085117
 GDP growth (annual %),Brazil,2021,4.76260437908608
 GDP growth (annual %),British Virgin Islands,2021,
-GDP growth (annual %),Brunei Darussalam,2021,-1.59076248075436
+GDP growth (annual %),Brunei,2021,-1.59076248075436
 GDP growth (annual %),Bulgaria,2021,7.78061481406978
 GDP growth (annual %),Burkina Faso,2021,6.94252492572348
 GDP growth (annual %),Burundi,2021,3.09999999870627
@@ -699,8 +699,8 @@ GDP growth (annual %),Chile,2021,11.3339570691911
 GDP growth (annual %),China,2021,8.44846941687277
 GDP growth (annual %),Colombia,2021,10.8011981904878
 GDP growth (annual %),Comoros,2021,2.00016198933761
-GDP growth (annual %),"Congo, Dem. Rep.",2021,6.20015401075946
-GDP growth (annual %),"Congo, Rep.",2021,1.01507036990908
+GDP growth (annual %),Congo (Kinshasa),2021,6.20015401075946
+GDP growth (annual %),Congo (Brazzaville),2021,1.01507036990908
 GDP growth (annual %),Costa Rica,2021,7.93576224743147
 GDP growth (annual %),Cote d'Ivoire,2021,7.06332910205232
 GDP growth (annual %),Croatia,2021,12.6317003277712
@@ -713,7 +713,7 @@ GDP growth (annual %),Djibouti,2021,4.52234774643705
 GDP growth (annual %),Dominica,2021,6.8905494167316
 GDP growth (annual %),Dominican Republic,2021,12.2719902347896
 GDP growth (annual %),Ecuador,2021,9.818417748417
-GDP growth (annual %),"Egypt, Arab Rep.",2021,3.29064601202211
+GDP growth (annual %),Egypt,2021,3.29064601202211
 GDP growth (annual %),El Salvador,2021,11.9047617015957
 GDP growth (annual %),Equatorial Guinea,2021,0.860269956382069
 GDP growth (annual %),Eritrea,2021,
@@ -725,7 +725,7 @@ GDP growth (annual %),Finland,2021,2.73471348589543
 GDP growth (annual %),France,2021,6.88233786590355
 GDP growth (annual %),French Polynesia,2021,2.09478896837454
 GDP growth (annual %),Gabon,2021,1.46795731508091
-GDP growth (annual %),"Gambia, The",2021,5.25596878816744
+GDP growth (annual %),Gambia,2021,5.25596878816744
 GDP growth (annual %),Georgia,2021,10.6442336580969
 GDP growth (annual %),Germany,2021,3.66999986156735
 GDP growth (annual %),Ghana,2021,5.07646643533542
@@ -745,7 +745,7 @@ GDP growth (annual %),Hungary,2021,7.06122060972912
 GDP growth (annual %),Iceland,2021,5.25420975317854
 GDP growth (annual %),India,2021,9.68959249192875
 GDP growth (annual %),Indonesia,2021,3.70288562827751
-GDP growth (annual %),"Iran, Islamic Rep.",2021,4.71977773157164
+GDP growth (annual %),Iran,2021,4.71977773157164
 GDP growth (annual %),Iraq,2021,1.5021807095434
 GDP growth (annual %),Ireland,2021,16.2556132446002
 GDP growth (annual %),Isle of Man,2021,3.83783666558899
@@ -758,11 +758,11 @@ GDP growth (annual %),Kazakhstan,2021,4.29999999729456
 GDP growth (annual %),Kenya,2021,7.59048947333467
 GDP growth (annual %),Kiribati,2021,8.52266121721455
 GDP growth (annual %),"Korea, Dem. People's Rep.",2021,
-GDP growth (annual %),"Korea, Rep.",2021,4.30473481906969
+GDP growth (annual %),South Korea,2021,4.30473481906969
 GDP growth (annual %),Kosovo,2021,10.7456560819583
 GDP growth (annual %),Kuwait,2021,2.26080609815888
 GDP growth (annual %),Kyrgyz Republic,2021,5.50700762671923
-GDP growth (annual %),Lao PDR,2021,2.52835100486102
+GDP growth (annual %),Laos,2021,2.52835100486102
 GDP growth (annual %),Latvia,2021,6.94723316214511
 GDP growth (annual %),Lebanon,2021,-7.00123862514116
 GDP growth (annual %),Lesotho,2021,2.26671067006538
@@ -783,7 +783,7 @@ GDP growth (annual %),Marshall Islands,2021,1.22227252150293
 GDP growth (annual %),Mauritania,2021,0.742715395138262
 GDP growth (annual %),Mauritius,2021,3.40379866177662
 GDP growth (annual %),Mexico,2021,6.04848344290505
-GDP growth (annual %),"Micronesia, Fed. Sts.",2021,2.8
+GDP growth (annual %),Micronesia,2021,2.8
 GDP growth (annual %),Moldova,2021,13.9299997889786
 GDP growth (annual %),Monaco,2021,22.2322155851208
 GDP growth (annual %),Mongolia,2021,1.63676957736662
@@ -815,7 +815,7 @@ GDP growth (annual %),Portugal,2021,5.55875752305435
 GDP growth (annual %),Puerto Rico,2021,0.385222719529239
 GDP growth (annual %),Qatar,2021,1.62684672468288
 GDP growth (annual %),Romania,2021,5.5457096259051
-GDP growth (annual %),Russian Federation,2021,5.61429037578345
+GDP growth (annual %),Russia,2021,5.61429037578345
 GDP growth (annual %),Rwanda,2021,10.8579677614975
 GDP growth (annual %),Samoa,2021,-7.07883094291508
 GDP growth (annual %),San Marino,2021,13.8977895076234
@@ -827,7 +827,7 @@ GDP growth (annual %),Seychelles,2021,0.552281631207279
 GDP growth (annual %),Sierra Leone,2021,5.8968527047094
 GDP growth (annual %),Singapore,2021,9.69076687082064
 GDP growth (annual %),Sint Maarten (Dutch part),2021,4.57759677933345
-GDP growth (annual %),Slovak Republic,2021,5.72698854011892
+GDP growth (annual %),Slovakia,2021,5.72698854011892
 GDP growth (annual %),Slovenia,2021,8.38965032094461
 GDP growth (annual %),Solomon Islands,2021,2.56434975416948
 GDP growth (annual %),Somalia,2021,3.45822792939802
@@ -844,7 +844,7 @@ GDP growth (annual %),Suriname,2021,-2.43538583612838
 GDP growth (annual %),Eswatini,2021,3.39933858133693
 GDP growth (annual %),Sweden,2021,5.9375085730744
 GDP growth (annual %),Switzerland,2021,5.39188804141473
-GDP growth (annual %),Syrian Arab Republic,2021,1.85421590064124
+GDP growth (annual %),Syria,2021,1.85421590064124
 GDP growth (annual %),Tajikistan,2021,9.39999955037523
 GDP growth (annual %),Tanzania,2021,4.32138429480482
 GDP growth (annual %),Thailand,2021,1.56818176501186
@@ -853,7 +853,7 @@ GDP growth (annual %),Togo,2021,5.99087610392314
 GDP growth (annual %),Tonga,2021,0.362601971842835
 GDP growth (annual %),Trinidad and Tobago,2021,-1.03742621022469
 GDP growth (annual %),Tunisia,2021,4.7363207484732
-GDP growth (annual %),Turkiye,2021,11.4393956926566
+GDP growth (annual %),Turkey,2021,11.4393956926566
 GDP growth (annual %),Turkmenistan,2021,6.20000001747076
 GDP growth (annual %),Turks and Caicos Islands,2021,9.02549747146406
 GDP growth (annual %),Tuvalu,2021,1.8041359113616
@@ -865,8 +865,8 @@ GDP growth (annual %),United States,2021,6.05505293304576
 GDP growth (annual %),Uruguay,2021,5.56189279343275
 GDP growth (annual %),Uzbekistan,2021,8.0346831263811
 GDP growth (annual %),Vanuatu,2021,-1.55229489129462
-GDP growth (annual %),"Venezuela, RB",2021,
-GDP growth (annual %),Viet Nam,2021,2.55372852648131
+GDP growth (annual %),Venezuela,2021,
+GDP growth (annual %),Vietnam,2021,2.55372852648131
 GDP growth (annual %),Virgin Islands (U.S.),2021,3.66760707873814
 GDP growth (annual %),West Bank and Gaza,2021,7.01198227592003
 GDP growth (annual %),"Yemen, Rep.",2021,
@@ -885,7 +885,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Australia,2021,2.86391042204994
 "Inflation, consumer prices (annual %)",Austria,2021,2.7666666666667
 "Inflation, consumer prices (annual %)",Azerbaijan,2021,6.65029912708779
-"Inflation, consumer prices (annual %)","Bahamas, The",2021,2.90491262928478
+"Inflation, consumer prices (annual %)",Bahamas,2021,2.90491262928478
 "Inflation, consumer prices (annual %)",Bahrain,2021,-0.60631938514085
 "Inflation, consumer prices (annual %)",Bangladesh,2021,5.54565430773473
 "Inflation, consumer prices (annual %)",Barbados,2021,
@@ -900,7 +900,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Botswana,2021,7.24097765588442
 "Inflation, consumer prices (annual %)",Brazil,2021,8.30165975585673
 "Inflation, consumer prices (annual %)",British Virgin Islands,2021,
-"Inflation, consumer prices (annual %)",Brunei Darussalam,2021,1.73341388450593
+"Inflation, consumer prices (annual %)",Brunei,2021,1.73341388450593
 "Inflation, consumer prices (annual %)",Bulgaria,2021,3.29774435299515
 "Inflation, consumer prices (annual %)",Burkina Faso,2021,3.65353287214209
 "Inflation, consumer prices (annual %)",Burundi,2021,8.40453845076341
@@ -916,8 +916,8 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",China,2021,0.981015135544882
 "Inflation, consumer prices (annual %)",Colombia,2021,3.49505757399448
 "Inflation, consumer prices (annual %)",Comoros,2021,
-"Inflation, consumer prices (annual %)","Congo, Dem. Rep.",2021,
-"Inflation, consumer prices (annual %)","Congo, Rep.",2021,1.7156427545126
+"Inflation, consumer prices (annual %)",Congo (Kinshasa),2021,
+"Inflation, consumer prices (annual %)",Congo (Brazzaville),2021,1.7156427545126
 "Inflation, consumer prices (annual %)",Costa Rica,2021,1.72647755109241
 "Inflation, consumer prices (annual %)",Cote d'Ivoire,2021,4.09195189692863
 "Inflation, consumer prices (annual %)",Croatia,2021,2.55450699642041
@@ -930,7 +930,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Dominica,2021,1.4831944499819
 "Inflation, consumer prices (annual %)",Dominican Republic,2021,8.24300347981809
 "Inflation, consumer prices (annual %)",Ecuador,2021,0.133251386096389
-"Inflation, consumer prices (annual %)","Egypt, Arab Rep.",2021,5.21404940513043
+"Inflation, consumer prices (annual %)",Egypt,2021,5.21404940513043
 "Inflation, consumer prices (annual %)",El Salvador,2021,3.46692585313082
 "Inflation, consumer prices (annual %)",Equatorial Guinea,2021,-0.0971007664640198
 "Inflation, consumer prices (annual %)",Eritrea,2021,
@@ -942,7 +942,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",France,2021,1.64233141038385
 "Inflation, consumer prices (annual %)",French Polynesia,2021,
 "Inflation, consumer prices (annual %)",Gabon,2021,1.0869074651941
-"Inflation, consumer prices (annual %)","Gambia, The",2021,7.37034758876618
+"Inflation, consumer prices (annual %)",Gambia,2021,7.37034758876618
 "Inflation, consumer prices (annual %)",Georgia,2021,9.56691433824769
 "Inflation, consumer prices (annual %)",Germany,2021,3.06666666666673
 "Inflation, consumer prices (annual %)",Ghana,2021,9.9710886750444
@@ -962,7 +962,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Iceland,2021,4.44423970189739
 "Inflation, consumer prices (annual %)",India,2021,5.13140747176369
 "Inflation, consumer prices (annual %)",Indonesia,2021,1.56012990525673
-"Inflation, consumer prices (annual %)","Iran, Islamic Rep.",2021,43.3890162681514
+"Inflation, consumer prices (annual %)",Iran,2021,43.3890162681514
 "Inflation, consumer prices (annual %)",Iraq,2021,6.04186489058044
 "Inflation, consumer prices (annual %)",Ireland,2021,2.34034113447044
 "Inflation, consumer prices (annual %)",Isle of Man,2021,
@@ -975,11 +975,11 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Kenya,2021,6.10793603659176
 "Inflation, consumer prices (annual %)",Kiribati,2021,2.05361676773907
 "Inflation, consumer prices (annual %)","Korea, Dem. People's Rep.",2021,
-"Inflation, consumer prices (annual %)","Korea, Rep.",2021,2.49833333333339
+"Inflation, consumer prices (annual %)",South Korea,2021,2.49833333333339
 "Inflation, consumer prices (annual %)",Kosovo,2021,3.35369139207997
 "Inflation, consumer prices (annual %)",Kuwait,2021,3.42362947609188
 "Inflation, consumer prices (annual %)",Kyrgyz Republic,2021,11.9050398185147
-"Inflation, consumer prices (annual %)",Lao PDR,2021,3.75562036658877
+"Inflation, consumer prices (annual %)",Laos,2021,3.75562036658877
 "Inflation, consumer prices (annual %)",Latvia,2021,3.27582937431156
 "Inflation, consumer prices (annual %)",Lebanon,2021,154.756096023393
 "Inflation, consumer prices (annual %)",Lesotho,2021,6.04774591950676
@@ -1000,7 +1000,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Mauritania,2021,3.56516484650185
 "Inflation, consumer prices (annual %)",Mauritius,2021,4.02852888157383
 "Inflation, consumer prices (annual %)",Mexico,2021,5.68920847683753
-"Inflation, consumer prices (annual %)","Micronesia, Fed. Sts.",2021,3.19128406597466
+"Inflation, consumer prices (annual %)",Micronesia,2021,3.19128406597466
 "Inflation, consumer prices (annual %)",Moldova,2021,5.10641129002836
 "Inflation, consumer prices (annual %)",Monaco,2021,
 "Inflation, consumer prices (annual %)",Mongolia,2021,7.35281243380219
@@ -1032,7 +1032,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Puerto Rico,2021,
 "Inflation, consumer prices (annual %)",Qatar,2021,2.30446565742003
 "Inflation, consumer prices (annual %)",Romania,2021,5.05232876096582
-"Inflation, consumer prices (annual %)",Russian Federation,2021,6.69445891957612
+"Inflation, consumer prices (annual %)",Russia,2021,6.69445891957612
 "Inflation, consumer prices (annual %)",Rwanda,2021,-0.391346748300791
 "Inflation, consumer prices (annual %)",Samoa,2021,3.13320473174494
 "Inflation, consumer prices (annual %)",San Marino,2021,1.61551411551421
@@ -1044,7 +1044,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Sierra Leone,2021,11.8739588840234
 "Inflation, consumer prices (annual %)",Singapore,2021,2.30485959040484
 "Inflation, consumer prices (annual %)",Sint Maarten (Dutch part),2021,
-"Inflation, consumer prices (annual %)",Slovak Republic,2021,3.14960629921268
+"Inflation, consumer prices (annual %)",Slovakia,2021,3.14960629921268
 "Inflation, consumer prices (annual %)",Slovenia,2021,1.91706506089259
 "Inflation, consumer prices (annual %)",Solomon Islands,2021,-0.115437894412839
 "Inflation, consumer prices (annual %)",Somalia,2021,
@@ -1061,7 +1061,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Eswatini,2021,
 "Inflation, consumer prices (annual %)",Sweden,2021,2.16319736447153
 "Inflation, consumer prices (annual %)",Switzerland,2021,0.581814168489856
-"Inflation, consumer prices (annual %)",Syrian Arab Republic,2021,
+"Inflation, consumer prices (annual %)",Syria,2021,
 "Inflation, consumer prices (annual %)",Tajikistan,2021,
 "Inflation, consumer prices (annual %)",Tanzania,2021,3.69091958802199
 "Inflation, consumer prices (annual %)",Thailand,2021,1.23039541318384
@@ -1070,7 +1070,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Tonga,2021,5.64051140636751
 "Inflation, consumer prices (annual %)",Trinidad and Tobago,2021,2.05922746915458
 "Inflation, consumer prices (annual %)",Tunisia,2021,5.706350208307
-"Inflation, consumer prices (annual %)",Turkiye,2021,19.5964926913324
+"Inflation, consumer prices (annual %)",Turkey,2021,19.5964926913324
 "Inflation, consumer prices (annual %)",Turkmenistan,2021,
 "Inflation, consumer prices (annual %)",Turks and Caicos Islands,2021,
 "Inflation, consumer prices (annual %)",Tuvalu,2021,
@@ -1082,8 +1082,8 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Inflation, consumer prices (annual %)",Uruguay,2021,7.74791402314762
 "Inflation, consumer prices (annual %)",Uzbekistan,2021,10.8492397508122
 "Inflation, consumer prices (annual %)",Vanuatu,2021,2.34328358208953
-"Inflation, consumer prices (annual %)","Venezuela, RB",2021,
-"Inflation, consumer prices (annual %)",Viet Nam,2021,1.83471554810444
+"Inflation, consumer prices (annual %)",Venezuela,2021,
+"Inflation, consumer prices (annual %)",Vietnam,2021,1.83471554810444
 "Inflation, consumer prices (annual %)",Virgin Islands (U.S.),2021,
 "Inflation, consumer prices (annual %)",West Bank and Gaza,2021,1.23748102831369
 "Inflation, consumer prices (annual %)","Yemen, Rep.",2021,
@@ -1102,7 +1102,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Australia,2021,5.023
 "Unemployment, total (% of total labor force) (national estimate)",Austria,2021,6.459
 "Unemployment, total (% of total labor force) (national estimate)",Azerbaijan,2021,6.04
-"Unemployment, total (% of total labor force) (national estimate)","Bahamas, The",2021,
+"Unemployment, total (% of total labor force) (national estimate)",Bahamas,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Bahrain,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Bangladesh,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Barbados,2021,11.015
@@ -1117,7 +1117,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Botswana,2021,23.106
 "Unemployment, total (% of total labor force) (national estimate)",Brazil,2021,13.159
 "Unemployment, total (% of total labor force) (national estimate)",British Virgin Islands,2021,
-"Unemployment, total (% of total labor force) (national estimate)",Brunei Darussalam,2021,4.905
+"Unemployment, total (% of total labor force) (national estimate)",Brunei,2021,4.905
 "Unemployment, total (% of total labor force) (national estimate)",Bulgaria,2021,5.267
 "Unemployment, total (% of total labor force) (national estimate)",Burkina Faso,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Burundi,2021,
@@ -1133,8 +1133,8 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",China,2021,5.11
 "Unemployment, total (% of total labor force) (national estimate)",Colombia,2021,13.898
 "Unemployment, total (% of total labor force) (national estimate)",Comoros,2021,4.394
-"Unemployment, total (% of total labor force) (national estimate)","Congo, Dem. Rep.",2021,
-"Unemployment, total (% of total labor force) (national estimate)","Congo, Rep.",2021,
+"Unemployment, total (% of total labor force) (national estimate)",Congo (Kinshasa),2021,
+"Unemployment, total (% of total labor force) (national estimate)",Congo (Brazzaville),2021,
 "Unemployment, total (% of total labor force) (national estimate)",Costa Rica,2021,15.139
 "Unemployment, total (% of total labor force) (national estimate)",Cote d'Ivoire,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Croatia,2021,7.608
@@ -1147,7 +1147,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Dominica,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Dominican Republic,2021,7.702
 "Unemployment, total (% of total labor force) (national estimate)",Ecuador,2021,4.504
-"Unemployment, total (% of total labor force) (national estimate)","Egypt, Arab Rep.",2021,7.441
+"Unemployment, total (% of total labor force) (national estimate)",Egypt,2021,7.441
 "Unemployment, total (% of total labor force) (national estimate)",El Salvador,2021,4.327
 "Unemployment, total (% of total labor force) (national estimate)",Equatorial Guinea,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Eritrea,2021,
@@ -1159,7 +1159,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",France,2021,7.871
 "Unemployment, total (% of total labor force) (national estimate)",French Polynesia,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Gabon,2021,
-"Unemployment, total (% of total labor force) (national estimate)","Gambia, The",2021,
+"Unemployment, total (% of total labor force) (national estimate)",Gambia,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Georgia,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Germany,2021,3.594
 "Unemployment, total (% of total labor force) (national estimate)",Ghana,2021,3.195
@@ -1179,7 +1179,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Iceland,2021,6.029
 "Unemployment, total (% of total labor force) (national estimate)",India,2021,6.38
 "Unemployment, total (% of total labor force) (national estimate)",Indonesia,2021,3.827
-"Unemployment, total (% of total labor force) (national estimate)","Iran, Islamic Rep.",2021,9.282
+"Unemployment, total (% of total labor force) (national estimate)",Iran,2021,9.282
 "Unemployment, total (% of total labor force) (national estimate)",Iraq,2021,16.173
 "Unemployment, total (% of total labor force) (national estimate)",Ireland,2021,6.364
 "Unemployment, total (% of total labor force) (national estimate)",Isle of Man,2021,
@@ -1192,11 +1192,11 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Kenya,2021,5.693
 "Unemployment, total (% of total labor force) (national estimate)",Kiribati,2021,
 "Unemployment, total (% of total labor force) (national estimate)","Korea, Dem. People's Rep.",2021,
-"Unemployment, total (% of total labor force) (national estimate)","Korea, Rep.",2021,3.639
+"Unemployment, total (% of total labor force) (national estimate)",South Korea,2021,3.639
 "Unemployment, total (% of total labor force) (national estimate)",Kosovo,2021,20.392
 "Unemployment, total (% of total labor force) (national estimate)",Kuwait,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Kyrgyz Republic,2021,5.149
-"Unemployment, total (% of total labor force) (national estimate)",Lao PDR,2021,
+"Unemployment, total (% of total labor force) (national estimate)",Laos,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Latvia,2021,7.513
 "Unemployment, total (% of total labor force) (national estimate)",Lebanon,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Lesotho,2021,
@@ -1217,7 +1217,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Mauritania,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Mauritius,2021,7.719
 "Unemployment, total (% of total labor force) (national estimate)",Mexico,2021,4.019
-"Unemployment, total (% of total labor force) (national estimate)","Micronesia, Fed. Sts.",2021,
+"Unemployment, total (% of total labor force) (national estimate)",Micronesia,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Moldova,2021,0.794
 "Unemployment, total (% of total labor force) (national estimate)",Monaco,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Mongolia,2021,7.871
@@ -1249,7 +1249,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Puerto Rico,2021,7.9
 "Unemployment, total (% of total labor force) (national estimate)",Qatar,2021,0.14
 "Unemployment, total (% of total labor force) (national estimate)",Romania,2021,5.59
-"Unemployment, total (% of total labor force) (national estimate)",Russian Federation,2021,4.749
+"Unemployment, total (% of total labor force) (national estimate)",Russia,2021,4.749
 "Unemployment, total (% of total labor force) (national estimate)",Rwanda,2021,15.775
 "Unemployment, total (% of total labor force) (national estimate)",Samoa,2021,
 "Unemployment, total (% of total labor force) (national estimate)",San Marino,2021,6.34
@@ -1261,7 +1261,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Sierra Leone,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Singapore,2021,4.64
 "Unemployment, total (% of total labor force) (national estimate)",Sint Maarten (Dutch part),2021,
-"Unemployment, total (% of total labor force) (national estimate)",Slovak Republic,2021,6.894
+"Unemployment, total (% of total labor force) (national estimate)",Slovakia,2021,6.894
 "Unemployment, total (% of total labor force) (national estimate)",Slovenia,2021,4.744
 "Unemployment, total (% of total labor force) (national estimate)",Solomon Islands,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Somalia,2021,
@@ -1278,7 +1278,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Eswatini,2021,34.153
 "Unemployment, total (% of total labor force) (national estimate)",Sweden,2021,8.722
 "Unemployment, total (% of total labor force) (national estimate)",Switzerland,2021,5.013
-"Unemployment, total (% of total labor force) (national estimate)",Syrian Arab Republic,2021,
+"Unemployment, total (% of total labor force) (national estimate)",Syria,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Tajikistan,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Tanzania,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Thailand,2021,1.215
@@ -1287,7 +1287,7 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Tonga,2021,2.111
 "Unemployment, total (% of total labor force) (national estimate)",Trinidad and Tobago,2021,4.446
 "Unemployment, total (% of total labor force) (national estimate)",Tunisia,2021,
-"Unemployment, total (% of total labor force) (national estimate)",Turkiye,2021,11.969
+"Unemployment, total (% of total labor force) (national estimate)",Turkey,2021,11.969
 "Unemployment, total (% of total labor force) (national estimate)",Turkmenistan,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Turks and Caicos Islands,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Tuvalu,2021,
@@ -1299,8 +1299,8 @@ GDP growth (annual %),Zimbabwe,2021,8.46801689759531
 "Unemployment, total (% of total labor force) (national estimate)",Uruguay,2021,9.328
 "Unemployment, total (% of total labor force) (national estimate)",Uzbekistan,2021,
 "Unemployment, total (% of total labor force) (national estimate)",Vanuatu,2021,
-"Unemployment, total (% of total labor force) (national estimate)","Venezuela, RB",2021,
-"Unemployment, total (% of total labor force) (national estimate)",Viet Nam,2021,2.385
+"Unemployment, total (% of total labor force) (national estimate)",Venezuela,2021,
+"Unemployment, total (% of total labor force) (national estimate)",Vietnam,2021,2.385
 "Unemployment, total (% of total labor force) (national estimate)",Virgin Islands (U.S.),2021,
 "Unemployment, total (% of total labor force) (national estimate)",West Bank and Gaza,2021,26.39
 "Unemployment, total (% of total labor force) (national estimate)","Yemen, Rep.",2021,
@@ -1324,7 +1324,7 @@ GDP growth (annual %),Aruba,2022,8.51791810517545
 GDP growth (annual %),Australia,2022,4.24238555336139
 GDP growth (annual %),Austria,2022,5.27789421203715
 GDP growth (annual %),Azerbaijan,2022,4.71480236521231
-GDP growth (annual %),"Bahamas, The",2022,10.7820132001503
+GDP growth (annual %),Bahamas,2022,10.7820132001503
 GDP growth (annual %),Bahrain,2022,5.98130282177125
 GDP growth (annual %),Bangladesh,2022,7.09982877575158
 GDP growth (annual %),Barbados,2022,17.8328630251327
@@ -1339,7 +1339,7 @@ GDP growth (annual %),Bosnia and Herzegovina,2022,4.22681101095546
 GDP growth (annual %),Botswana,2022,5.48602817797183
 GDP growth (annual %),Brazil,2022,3.01669435393015
 GDP growth (annual %),British Virgin Islands,2022,
-GDP growth (annual %),Brunei Darussalam,2022,-1.62833154022366
+GDP growth (annual %),Brunei,2022,-1.62833154022366
 GDP growth (annual %),Bulgaria,2022,4.03877758301681
 GDP growth (annual %),Burkina Faso,2022,1.4972397409897
 GDP growth (annual %),Burundi,2022,1.84899943948213
@@ -1355,8 +1355,8 @@ GDP growth (annual %),Chile,2022,2.05874008095333
 GDP growth (annual %),China,2022,2.95066992959268
 GDP growth (annual %),Colombia,2022,7.2888838865514
 GDP growth (annual %),Comoros,2022,2.60301031927843
-GDP growth (annual %),"Congo, Dem. Rep.",2022,8.92444762563109
-GDP growth (annual %),"Congo, Rep.",2022,1.47535613247133
+GDP growth (annual %),Congo (Kinshasa),2022,8.92444762563109
+GDP growth (annual %),Congo (Brazzaville),2022,1.47535613247133
 GDP growth (annual %),Costa Rica,2022,4.55149177958398
 GDP growth (annual %),Cote d'Ivoire,2022,6.2178509127107
 GDP growth (annual %),Croatia,2022,7.28793643206565
@@ -1369,7 +1369,7 @@ GDP growth (annual %),Djibouti,2022,3.72857647005031
 GDP growth (annual %),Dominica,2022,5.58354626264079
 GDP growth (annual %),Dominican Republic,2022,4.85832403582451
 GDP growth (annual %),Ecuador,2022,6.18613907258741
-GDP growth (annual %),"Egypt, Arab Rep.",2022,6.58784560886967
+GDP growth (annual %),Egypt,2022,6.58784560886967
 GDP growth (annual %),El Salvador,2022,2.79955216943868
 GDP growth (annual %),Equatorial Guinea,2022,3.22350831658598
 GDP growth (annual %),Eritrea,2022,
@@ -1381,7 +1381,7 @@ GDP growth (annual %),Finland,2022,1.4500480727209
 GDP growth (annual %),France,2022,2.57084047443969
 GDP growth (annual %),French Polynesia,2022,4.46607459000271
 GDP growth (annual %),Gabon,2022,3.03761449502689
-GDP growth (annual %),"Gambia, The",2022,5.49299823010114
+GDP growth (annual %),Gambia,2022,5.49299823010114
 GDP growth (annual %),Georgia,2022,10.9585321385624
 GDP growth (annual %),Germany,2022,1.36973105536585
 GDP growth (annual %),Ghana,2022,3.81750462109567
@@ -1401,7 +1401,7 @@ GDP growth (annual %),Hungary,2022,4.58340767295068
 GDP growth (annual %),Iceland,2022,8.9925076126915
 GDP growth (annual %),India,2022,6.9870393257555
 GDP growth (annual %),Indonesia,2022,5.30741934775764
-GDP growth (annual %),"Iran, Islamic Rep.",2022,3.77663140152906
+GDP growth (annual %),Iran,2022,3.77663140152906
 GDP growth (annual %),Iraq,2022,7.63981140218355
 GDP growth (annual %),Ireland,2022,8.61950355191492
 GDP growth (annual %),Isle of Man,2022,
@@ -1414,11 +1414,11 @@ GDP growth (annual %),Kazakhstan,2022,3.19999999970734
 GDP growth (annual %),Kenya,2022,4.85998104287999
 GDP growth (annual %),Kiribati,2022,3.90535280738948
 GDP growth (annual %),"Korea, Dem. People's Rep.",2022,
-GDP growth (annual %),"Korea, Rep.",2022,2.61267219187226
+GDP growth (annual %),South Korea,2022,2.61267219187226
 GDP growth (annual %),Kosovo,2022,4.27849895827543
 GDP growth (annual %),Kuwait,2022,5.85920887270251
 GDP growth (annual %),Kyrgyz Republic,2022,8.96750520041391
-GDP growth (annual %),Lao PDR,2022,2.70742652643155
+GDP growth (annual %),Laos,2022,2.70742652643155
 GDP growth (annual %),Latvia,2022,1.8126824022841
 GDP growth (annual %),Lebanon,2022,-0.621678970663112
 GDP growth (annual %),Lesotho,2022,2.38778020186284
@@ -1439,7 +1439,7 @@ GDP growth (annual %),Marshall Islands,2022,-1.11806797853311
 GDP growth (annual %),Mauritania,2022,6.79600510182286
 GDP growth (annual %),Mauritius,2022,8.87988519700977
 GDP growth (annual %),Mexico,2022,3.68911109348025
-GDP growth (annual %),"Micronesia, Fed. Sts.",2022,-0.778210116731515
+GDP growth (annual %),Micronesia,2022,-0.778210116731515
 GDP growth (annual %),Moldova,2022,-5.01548231924089
 GDP growth (annual %),Monaco,2022,11.0469394271752
 GDP growth (annual %),Mongolia,2022,5.0327096366527
@@ -1471,7 +1471,7 @@ GDP growth (annual %),Portugal,2022,6.98584193827881
 GDP growth (annual %),Puerto Rico,2022,3.56811024720668
 GDP growth (annual %),Qatar,2022,4.18500971344966
 GDP growth (annual %),Romania,2022,3.96530766311717
-GDP growth (annual %),Russian Federation,2022,-2.06971152527731
+GDP growth (annual %),Russia,2022,-2.06971152527731
 GDP growth (annual %),Rwanda,2022,8.15773308481241
 GDP growth (annual %),Samoa,2022,-5.30629089966979
 GDP growth (annual %),San Marino,2022,7.89844145767604
@@ -1483,7 +1483,7 @@ GDP growth (annual %),Seychelles,2022,14.9768513322959
 GDP growth (annual %),Sierra Leone,2022,5.3135546141915
 GDP growth (annual %),Singapore,2022,3.83807678519807
 GDP growth (annual %),Sint Maarten (Dutch part),2022,9.80000111145777
-GDP growth (annual %),Slovak Republic,2022,0.449673875081572
+GDP growth (annual %),Slovakia,2022,0.449673875081572
 GDP growth (annual %),Slovenia,2022,2.69923755687375
 GDP growth (annual %),Solomon Islands,2022,2.40248143622522
 GDP growth (annual %),Somalia,2022,2.72711429582988
@@ -1500,7 +1500,7 @@ GDP growth (annual %),Suriname,2022,2.40622235601218
 GDP growth (annual %),Eswatini,2022,-0.0676192583464115
 GDP growth (annual %),Sweden,2022,1.45928850757269
 GDP growth (annual %),Switzerland,2022,2.56832817834069
-GDP growth (annual %),Syrian Arab Republic,2022,0.732781301861365
+GDP growth (annual %),Syria,2022,0.732781301861365
 GDP growth (annual %),Tajikistan,2022,8.00000033846364
 GDP growth (annual %),Tanzania,2022,4.56600576430955
 GDP growth (annual %),Thailand,2022,2.46276934050356
@@ -1509,7 +1509,7 @@ GDP growth (annual %),Togo,2022,5.75954251521733
 GDP growth (annual %),Tonga,2022,-2.30986002720401
 GDP growth (annual %),Trinidad and Tobago,2022,1.48223484044745
 GDP growth (annual %),Tunisia,2022,2.67331821840567
-GDP growth (annual %),Turkiye,2022,5.53342787492781
+GDP growth (annual %),Turkey,2022,5.53342787492781
 GDP growth (annual %),Turkmenistan,2022,6.19999993621698
 GDP growth (annual %),Turks and Caicos Islands,2022,6.19999948551566
 GDP growth (annual %),Tuvalu,2022,0.677309361438304
@@ -1521,8 +1521,8 @@ GDP growth (annual %),United States,2022,2.51237531983308
 GDP growth (annual %),Uruguay,2022,4.70725761465232
 GDP growth (annual %),Uzbekistan,2022,6.00134232206508
 GDP growth (annual %),Vanuatu,2022,1.9160570121628
-GDP growth (annual %),"Venezuela, RB",2022,
-GDP growth (annual %),Viet Nam,2022,8.12351446767343
+GDP growth (annual %),Venezuela,2022,
+GDP growth (annual %),Vietnam,2022,8.12351446767343
 GDP growth (annual %),Virgin Islands (U.S.),2022,-1.31123206333498
 GDP growth (annual %),West Bank and Gaza,2022,4.08276027347105
 GDP growth (annual %),"Yemen, Rep.",2022,
@@ -1541,7 +1541,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Australia,2022,6.59409671341846
 "Inflation, consumer prices (annual %)",Austria,2022,8.5468699318845
 "Inflation, consumer prices (annual %)",Azerbaijan,2022,13.8522590144267
-"Inflation, consumer prices (annual %)","Bahamas, The",2022,5.60540633583044
+"Inflation, consumer prices (annual %)",Bahamas,2022,5.60540633583044
 "Inflation, consumer prices (annual %)",Bahrain,2022,3.62574104304482
 "Inflation, consumer prices (annual %)",Bangladesh,2022,7.69695437176898
 "Inflation, consumer prices (annual %)",Barbados,2022,
@@ -1556,7 +1556,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Botswana,2022,11.665567478802
 "Inflation, consumer prices (annual %)",Brazil,2022,9.28010608956873
 "Inflation, consumer prices (annual %)",British Virgin Islands,2022,
-"Inflation, consumer prices (annual %)",Brunei Darussalam,2022,3.68225030604216
+"Inflation, consumer prices (annual %)",Brunei,2022,3.68225030604216
 "Inflation, consumer prices (annual %)",Bulgaria,2022,15.3252589264366
 "Inflation, consumer prices (annual %)",Burkina Faso,2022,14.2902354303358
 "Inflation, consumer prices (annual %)",Burundi,2022,18.8008786664945
@@ -1572,8 +1572,8 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",China,2022,1.97357555739051
 "Inflation, consumer prices (annual %)",Colombia,2022,10.1772313546166
 "Inflation, consumer prices (annual %)",Comoros,2022,
-"Inflation, consumer prices (annual %)","Congo, Dem. Rep.",2022,
-"Inflation, consumer prices (annual %)","Congo, Rep.",2022,3.04344334698478
+"Inflation, consumer prices (annual %)",Congo (Kinshasa),2022,
+"Inflation, consumer prices (annual %)",Congo (Brazzaville),2022,3.04344334698478
 "Inflation, consumer prices (annual %)",Costa Rica,2022,8.27477490232654
 "Inflation, consumer prices (annual %)",Cote d'Ivoire,2022,5.27616724262846
 "Inflation, consumer prices (annual %)",Croatia,2022,10.7805806758686
@@ -1586,7 +1586,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Dominica,2022,7.7806152516404
 "Inflation, consumer prices (annual %)",Dominican Republic,2022,8.81109209279587
 "Inflation, consumer prices (annual %)",Ecuador,2022,3.46616972213077
-"Inflation, consumer prices (annual %)","Egypt, Arab Rep.",2022,13.8956609775178
+"Inflation, consumer prices (annual %)",Egypt,2022,13.8956609775178
 "Inflation, consumer prices (annual %)",El Salvador,2022,7.19861615609867
 "Inflation, consumer prices (annual %)",Equatorial Guinea,2022,4.78671704710803
 "Inflation, consumer prices (annual %)",Eritrea,2022,
@@ -1598,7 +1598,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",France,2022,5.22236748369735
 "Inflation, consumer prices (annual %)",French Polynesia,2022,
 "Inflation, consumer prices (annual %)",Gabon,2022,4.23124798274579
-"Inflation, consumer prices (annual %)","Gambia, The",2022,11.5131198380505
+"Inflation, consumer prices (annual %)",Gambia,2022,11.5131198380505
 "Inflation, consumer prices (annual %)",Georgia,2022,11.8981654203198
 "Inflation, consumer prices (annual %)",Germany,2022,6.87257438551097
 "Inflation, consumer prices (annual %)",Ghana,2022,31.2558951049016
@@ -1618,7 +1618,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Iceland,2022,8.3087551155892
 "Inflation, consumer prices (annual %)",India,2022,6.69903414079852
 "Inflation, consumer prices (annual %)",Indonesia,2022,4.20946383402165
-"Inflation, consumer prices (annual %)","Iran, Islamic Rep.",2022,43.4884641742179
+"Inflation, consumer prices (annual %)",Iran,2022,43.4884641742179
 "Inflation, consumer prices (annual %)",Iraq,2022,4.99476596381044
 "Inflation, consumer prices (annual %)",Ireland,2022,7.82945736434105
 "Inflation, consumer prices (annual %)",Isle of Man,2022,
@@ -1631,11 +1631,11 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Kenya,2022,7.65986268272224
 "Inflation, consumer prices (annual %)",Kiribati,2022,5.34595440908904
 "Inflation, consumer prices (annual %)","Korea, Dem. People's Rep.",2022,
-"Inflation, consumer prices (annual %)","Korea, Rep.",2022,5.08951365062842
+"Inflation, consumer prices (annual %)",South Korea,2022,5.08951365062842
 "Inflation, consumer prices (annual %)",Kosovo,2022,11.5805104542012
 "Inflation, consumer prices (annual %)",Kuwait,2022,3.98064961990313
 "Inflation, consumer prices (annual %)",Kyrgyz Republic,2022,13.9229093174176
-"Inflation, consumer prices (annual %)",Lao PDR,2022,22.9562225132056
+"Inflation, consumer prices (annual %)",Laos,2022,22.9562225132056
 "Inflation, consumer prices (annual %)",Latvia,2022,17.3102830198815
 "Inflation, consumer prices (annual %)",Lebanon,2022,171.205491336641
 "Inflation, consumer prices (annual %)",Lesotho,2022,8.27180389943028
@@ -1656,7 +1656,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Mauritania,2022,9.52526628622843
 "Inflation, consumer prices (annual %)",Mauritius,2022,10.7737512242899
 "Inflation, consumer prices (annual %)",Mexico,2022,7.8962761916855
-"Inflation, consumer prices (annual %)","Micronesia, Fed. Sts.",2022,5.40874375479067
+"Inflation, consumer prices (annual %)",Micronesia,2022,5.40874375479067
 "Inflation, consumer prices (annual %)",Moldova,2022,28.7372976766236
 "Inflation, consumer prices (annual %)",Monaco,2022,
 "Inflation, consumer prices (annual %)",Mongolia,2022,15.1479560897226
@@ -1688,7 +1688,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Puerto Rico,2022,
 "Inflation, consumer prices (annual %)",Qatar,2022,4.99527553740761
 "Inflation, consumer prices (annual %)",Romania,2022,13.7954887432521
-"Inflation, consumer prices (annual %)",Russian Federation,2022,
+"Inflation, consumer prices (annual %)",Russia,2022,
 "Inflation, consumer prices (annual %)",Rwanda,2022,17.6892095588153
 "Inflation, consumer prices (annual %)",Samoa,2022,10.9618822286844
 "Inflation, consumer prices (annual %)",San Marino,2022,5.32545321311365
@@ -1700,7 +1700,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Sierra Leone,2022,27.2082883814653
 "Inflation, consumer prices (annual %)",Singapore,2022,6.12106004039418
 "Inflation, consumer prices (annual %)",Sint Maarten (Dutch part),2022,
-"Inflation, consumer prices (annual %)",Slovak Republic,2022,12.7741463637611
+"Inflation, consumer prices (annual %)",Slovakia,2022,12.7741463637611
 "Inflation, consumer prices (annual %)",Slovenia,2022,8.83369886749452
 "Inflation, consumer prices (annual %)",Solomon Islands,2022,5.51812928576938
 "Inflation, consumer prices (annual %)",Somalia,2022,
@@ -1717,7 +1717,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Eswatini,2022,
 "Inflation, consumer prices (annual %)",Sweden,2022,8.36929098869189
 "Inflation, consumer prices (annual %)",Switzerland,2022,2.83502798644463
-"Inflation, consumer prices (annual %)",Syrian Arab Republic,2022,
+"Inflation, consumer prices (annual %)",Syria,2022,
 "Inflation, consumer prices (annual %)",Tajikistan,2022,
 "Inflation, consumer prices (annual %)",Tanzania,2022,4.35027204269101
 "Inflation, consumer prices (annual %)",Thailand,2022,6.07741228434321
@@ -1726,7 +1726,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Tonga,2022,10.9713652903022
 "Inflation, consumer prices (annual %)",Trinidad and Tobago,2022,5.82838638517959
 "Inflation, consumer prices (annual %)",Tunisia,2022,8.30646124447623
-"Inflation, consumer prices (annual %)",Turkiye,2022,72.3088359891207
+"Inflation, consumer prices (annual %)",Turkey,2022,72.3088359891207
 "Inflation, consumer prices (annual %)",Turkmenistan,2022,
 "Inflation, consumer prices (annual %)",Turks and Caicos Islands,2022,
 "Inflation, consumer prices (annual %)",Tuvalu,2022,
@@ -1738,8 +1738,8 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Inflation, consumer prices (annual %)",Uruguay,2022,9.10437983075437
 "Inflation, consumer prices (annual %)",Uzbekistan,2022,11.4466436998836
 "Inflation, consumer prices (annual %)",Vanuatu,2022,6.67930581887121
-"Inflation, consumer prices (annual %)","Venezuela, RB",2022,
-"Inflation, consumer prices (annual %)",Viet Nam,2022,3.15650749963129
+"Inflation, consumer prices (annual %)",Venezuela,2022,
+"Inflation, consumer prices (annual %)",Vietnam,2022,3.15650749963129
 "Inflation, consumer prices (annual %)",Virgin Islands (U.S.),2022,
 "Inflation, consumer prices (annual %)",West Bank and Gaza,2022,3.74122391852077
 "Inflation, consumer prices (annual %)","Yemen, Rep.",2022,
@@ -1758,7 +1758,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Australia,2022,3.728
 "Unemployment, total (% of total labor force) (national estimate)",Austria,2022,4.992
 "Unemployment, total (% of total labor force) (national estimate)",Azerbaijan,2022,5.65
-"Unemployment, total (% of total labor force) (national estimate)","Bahamas, The",2022,
+"Unemployment, total (% of total labor force) (national estimate)",Bahamas,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Bahrain,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Bangladesh,2022,4.593
 "Unemployment, total (% of total labor force) (national estimate)",Barbados,2022,
@@ -1773,7 +1773,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Botswana,2022,23.615
 "Unemployment, total (% of total labor force) (national estimate)",Brazil,2022,9.231
 "Unemployment, total (% of total labor force) (national estimate)",British Virgin Islands,2022,
-"Unemployment, total (% of total labor force) (national estimate)",Brunei Darussalam,2022,5.191
+"Unemployment, total (% of total labor force) (national estimate)",Brunei,2022,5.191
 "Unemployment, total (% of total labor force) (national estimate)",Bulgaria,2022,4.268
 "Unemployment, total (% of total labor force) (national estimate)",Burkina Faso,2022,1.927
 "Unemployment, total (% of total labor force) (national estimate)",Burundi,2022,
@@ -1789,8 +1789,8 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",China,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Colombia,2022,10.547
 "Unemployment, total (% of total labor force) (national estimate)",Comoros,2022,
-"Unemployment, total (% of total labor force) (national estimate)","Congo, Dem. Rep.",2022,
-"Unemployment, total (% of total labor force) (national estimate)","Congo, Rep.",2022,
+"Unemployment, total (% of total labor force) (national estimate)",Congo (Kinshasa),2022,
+"Unemployment, total (% of total labor force) (national estimate)",Congo (Brazzaville),2022,
 "Unemployment, total (% of total labor force) (national estimate)",Costa Rica,2022,11.325
 "Unemployment, total (% of total labor force) (national estimate)",Cote d'Ivoire,2022,2.31
 "Unemployment, total (% of total labor force) (national estimate)",Croatia,2022,6.96
@@ -1803,7 +1803,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Dominica,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Dominican Republic,2022,5.504
 "Unemployment, total (% of total labor force) (national estimate)",Ecuador,2022,3.713
-"Unemployment, total (% of total labor force) (national estimate)","Egypt, Arab Rep.",2022,7.344
+"Unemployment, total (% of total labor force) (national estimate)",Egypt,2022,7.344
 "Unemployment, total (% of total labor force) (national estimate)",El Salvador,2022,2.999
 "Unemployment, total (% of total labor force) (national estimate)",Equatorial Guinea,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Eritrea,2022,
@@ -1815,7 +1815,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",France,2022,7.303
 "Unemployment, total (% of total labor force) (national estimate)",French Polynesia,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Gabon,2022,
-"Unemployment, total (% of total labor force) (national estimate)","Gambia, The",2022,
+"Unemployment, total (% of total labor force) (national estimate)",Gambia,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Georgia,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Germany,2022,3.12
 "Unemployment, total (% of total labor force) (national estimate)",Ghana,2022,2.87
@@ -1835,7 +1835,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Iceland,2022,3.789
 "Unemployment, total (% of total labor force) (national estimate)",India,2022,4.822
 "Unemployment, total (% of total labor force) (national estimate)",Indonesia,2022,3.462
-"Unemployment, total (% of total labor force) (national estimate)","Iran, Islamic Rep.",2022,9.085
+"Unemployment, total (% of total labor force) (national estimate)",Iran,2022,9.085
 "Unemployment, total (% of total labor force) (national estimate)",Iraq,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Ireland,2022,4.501
 "Unemployment, total (% of total labor force) (national estimate)",Isle of Man,2022,
@@ -1848,11 +1848,11 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Kenya,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Kiribati,2022,
 "Unemployment, total (% of total labor force) (national estimate)","Korea, Dem. People's Rep.",2022,
-"Unemployment, total (% of total labor force) (national estimate)","Korea, Rep.",2022,2.857
+"Unemployment, total (% of total labor force) (national estimate)",South Korea,2022,2.857
 "Unemployment, total (% of total labor force) (national estimate)",Kosovo,2022,12.093
 "Unemployment, total (% of total labor force) (national estimate)",Kuwait,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Kyrgyz Republic,2022,4.767
-"Unemployment, total (% of total labor force) (national estimate)",Lao PDR,2022,1.209
+"Unemployment, total (% of total labor force) (national estimate)",Laos,2022,1.209
 "Unemployment, total (% of total labor force) (national estimate)",Latvia,2022,6.815
 "Unemployment, total (% of total labor force) (national estimate)",Lebanon,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Lesotho,2022,
@@ -1873,7 +1873,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Mauritania,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Mauritius,2022,6.322
 "Unemployment, total (% of total labor force) (national estimate)",Mexico,2022,3.256
-"Unemployment, total (% of total labor force) (national estimate)","Micronesia, Fed. Sts.",2022,
+"Unemployment, total (% of total labor force) (national estimate)",Micronesia,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Moldova,2022,0.909
 "Unemployment, total (% of total labor force) (national estimate)",Monaco,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Mongolia,2022,5.954
@@ -1905,7 +1905,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Puerto Rico,2022,6.0
 "Unemployment, total (% of total labor force) (national estimate)",Qatar,2022,0.13
 "Unemployment, total (% of total labor force) (national estimate)",Romania,2022,5.614
-"Unemployment, total (% of total labor force) (national estimate)",Russian Federation,2022,3.867
+"Unemployment, total (% of total labor force) (national estimate)",Russia,2022,3.867
 "Unemployment, total (% of total labor force) (national estimate)",Rwanda,2022,15.084
 "Unemployment, total (% of total labor force) (national estimate)",Samoa,2022,5.048
 "Unemployment, total (% of total labor force) (national estimate)",San Marino,2022,4.91
@@ -1917,7 +1917,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Sierra Leone,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Singapore,2022,3.591
 "Unemployment, total (% of total labor force) (national estimate)",Sint Maarten (Dutch part),2022,
-"Unemployment, total (% of total labor force) (national estimate)",Slovak Republic,2022,6.143
+"Unemployment, total (% of total labor force) (national estimate)",Slovakia,2022,6.143
 "Unemployment, total (% of total labor force) (national estimate)",Slovenia,2022,4.011
 "Unemployment, total (% of total labor force) (national estimate)",Solomon Islands,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Somalia,2022,
@@ -1934,7 +1934,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Eswatini,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Sweden,2022,7.392
 "Unemployment, total (% of total labor force) (national estimate)",Switzerland,2022,4.122
-"Unemployment, total (% of total labor force) (national estimate)",Syrian Arab Republic,2022,
+"Unemployment, total (% of total labor force) (national estimate)",Syria,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Tajikistan,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Tanzania,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Thailand,2022,0.94
@@ -1943,7 +1943,7 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Tonga,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Trinidad and Tobago,2022,4.383
 "Unemployment, total (% of total labor force) (national estimate)",Tunisia,2022,15.301
-"Unemployment, total (% of total labor force) (national estimate)",Turkiye,2022,10.465
+"Unemployment, total (% of total labor force) (national estimate)",Turkey,2022,10.465
 "Unemployment, total (% of total labor force) (national estimate)",Turkmenistan,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Turks and Caicos Islands,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Tuvalu,2022,7.318
@@ -1955,8 +1955,8 @@ GDP growth (annual %),Zimbabwe,2022,6.13926326513234
 "Unemployment, total (% of total labor force) (national estimate)",Uruguay,2022,7.877
 "Unemployment, total (% of total labor force) (national estimate)",Uzbekistan,2022,
 "Unemployment, total (% of total labor force) (national estimate)",Vanuatu,2022,
-"Unemployment, total (% of total labor force) (national estimate)","Venezuela, RB",2022,
-"Unemployment, total (% of total labor force) (national estimate)",Viet Nam,2022,1.523
+"Unemployment, total (% of total labor force) (national estimate)",Venezuela,2022,
+"Unemployment, total (% of total labor force) (national estimate)",Vietnam,2022,1.523
 "Unemployment, total (% of total labor force) (national estimate)",Virgin Islands (U.S.),2022,
 "Unemployment, total (% of total labor force) (national estimate)",West Bank and Gaza,2022,24.42
 "Unemployment, total (% of total labor force) (national estimate)","Yemen, Rep.",2022,
@@ -1980,7 +1980,7 @@ GDP growth (annual %),Aruba,2023,4.26371941452948
 GDP growth (annual %),Australia,2023,3.44199220009025
 GDP growth (annual %),Austria,2023,-0.954962366849259
 GDP growth (annual %),Azerbaijan,2023,1.12397432709641
-GDP growth (annual %),"Bahamas, The",2023,2.63905598075102
+GDP growth (annual %),Bahamas,2023,2.63905598075102
 GDP growth (annual %),Bahrain,2023,2.9807927665851
 GDP growth (annual %),Bangladesh,2023,5.77511237007889
 GDP growth (annual %),Barbados,2023,4.09382010970572
@@ -1995,7 +1995,7 @@ GDP growth (annual %),Bosnia and Herzegovina,2023,2.21112447211205
 GDP growth (annual %),Botswana,2023,2.73379817032757
 GDP growth (annual %),Brazil,2023,2.90848048667777
 GDP growth (annual %),British Virgin Islands,2023,
-GDP growth (annual %),Brunei Darussalam,2023,1.40706832327938
+GDP growth (annual %),Brunei,2023,1.40706832327938
 GDP growth (annual %),Bulgaria,2023,1.88681483907177
 GDP growth (annual %),Burkina Faso,2023,2.96018147384929
 GDP growth (annual %),Burundi,2023,2.70000059705133
@@ -2011,8 +2011,8 @@ GDP growth (annual %),Chile,2023,0.218780666901552
 GDP growth (annual %),China,2023,5.24955786387791
 GDP growth (annual %),Colombia,2023,0.610409565791542
 GDP growth (annual %),Comoros,2023,2.99567457175966
-GDP growth (annual %),"Congo, Dem. Rep.",2023,8.56086250904089
-GDP growth (annual %),"Congo, Rep.",2023,1.90686426346754
+GDP growth (annual %),Congo (Kinshasa),2023,8.56086250904089
+GDP growth (annual %),Congo (Brazzaville),2023,1.90686426346754
 GDP growth (annual %),Costa Rica,2023,5.11192183224598
 GDP growth (annual %),Cote d'Ivoire,2023,6.199999999987
 GDP growth (annual %),Croatia,2023,3.30254488086325
@@ -2025,7 +2025,7 @@ GDP growth (annual %),Djibouti,2023,6.67664964361434
 GDP growth (annual %),Dominica,2023,4.71223818531963
 GDP growth (annual %),Dominican Republic,2023,2.36061568723294
 GDP growth (annual %),Ecuador,2023,2.35521790742197
-GDP growth (annual %),"Egypt, Arab Rep.",2023,3.75870055176806
+GDP growth (annual %),Egypt,2023,3.75870055176806
 GDP growth (annual %),El Salvador,2023,3.51097706608982
 GDP growth (annual %),Equatorial Guinea,2023,-5.08930872071532
 GDP growth (annual %),Eritrea,2023,
@@ -2037,7 +2037,7 @@ GDP growth (annual %),Finland,2023,-1.16396281522198
 GDP growth (annual %),France,2023,0.936487502671483
 GDP growth (annual %),French Polynesia,2023,
 GDP growth (annual %),Gabon,2023,2.44588083119469
-GDP growth (annual %),"Gambia, The",2023,4.79750895186164
+GDP growth (annual %),Gambia,2023,4.79750895186164
 GDP growth (annual %),Georgia,2023,7.8322012152783
 GDP growth (annual %),Germany,2023,-0.266438410090913
 GDP growth (annual %),Ghana,2023,2.94478583082221
@@ -2057,7 +2057,7 @@ GDP growth (annual %),Hungary,2023,-0.907685956140242
 GDP growth (annual %),Iceland,2023,5.03717943960838
 GDP growth (annual %),India,2023,8.1529363109041
 GDP growth (annual %),Indonesia,2023,5.04810577067288
-GDP growth (annual %),"Iran, Islamic Rep.",2023,5.04489051061807
+GDP growth (annual %),Iran,2023,5.04489051061807
 GDP growth (annual %),Iraq,2023,-2.93555773971221
 GDP growth (annual %),Ireland,2023,-5.53000736095537
 GDP growth (annual %),Isle of Man,2023,
@@ -2070,11 +2070,11 @@ GDP growth (annual %),Kazakhstan,2023,5.09999999973641
 GDP growth (annual %),Kenya,2023,5.55587301319866
 GDP growth (annual %),Kiribati,2023,4.12459054312031
 GDP growth (annual %),"Korea, Dem. People's Rep.",2023,
-GDP growth (annual %),"Korea, Rep.",2023,1.35673324311098
+GDP growth (annual %),South Korea,2023,1.35673324311098
 GDP growth (annual %),Kosovo,2023,4.06762701436438
 GDP growth (annual %),Kuwait,2023,-3.64042590261035
 GDP growth (annual %),Kyrgyz Republic,2023,6.15139183716032
-GDP growth (annual %),Lao PDR,2023,3.74568140158232
+GDP growth (annual %),Laos,2023,3.74568140158232
 GDP growth (annual %),Latvia,2023,1.70679524969924
 GDP growth (annual %),Lebanon,2023,
 GDP growth (annual %),Lesotho,2023,1.82662525852363
@@ -2095,7 +2095,7 @@ GDP growth (annual %),Marshall Islands,2023,-3.93487109905021
 GDP growth (annual %),Mauritania,2023,6.50718719858594
 GDP growth (annual %),Mauritius,2023,6.95828740328457
 GDP growth (annual %),Mexico,2023,3.19998116598492
-GDP growth (annual %),"Micronesia, Fed. Sts.",2023,0.784313725490193
+GDP growth (annual %),Micronesia,2023,0.784313725490193
 GDP growth (annual %),Moldova,2023,0.78324270969388
 GDP growth (annual %),Monaco,2023,5.04338259195359
 GDP growth (annual %),Mongolia,2023,7.4221127615025
@@ -2127,7 +2127,7 @@ GDP growth (annual %),Portugal,2023,2.52628110806764
 GDP growth (annual %),Puerto Rico,2023,0.563519426800866
 GDP growth (annual %),Qatar,2023,1.18715991184813
 GDP growth (annual %),Romania,2023,2.40427177912809
-GDP growth (annual %),Russian Federation,2023,3.60000000000001
+GDP growth (annual %),Russia,2023,3.60000000000001
 GDP growth (annual %),Rwanda,2023,8.24128769450616
 GDP growth (annual %),Samoa,2023,8.58409121817338
 GDP growth (annual %),San Marino,2023,
@@ -2139,7 +2139,7 @@ GDP growth (annual %),Seychelles,2023,3.16171435490999
 GDP growth (annual %),Sierra Leone,2023,5.7100218981806
 GDP growth (annual %),Singapore,2023,1.07503175095101
 GDP growth (annual %),Sint Maarten (Dutch part),2023,3.8
-GDP growth (annual %),Slovak Republic,2023,1.37833727209444
+GDP growth (annual %),Slovakia,2023,1.37833727209444
 GDP growth (annual %),Slovenia,2023,2.11259184318999
 GDP growth (annual %),Solomon Islands,2023,3.07976981501386
 GDP growth (annual %),Somalia,2023,4.21638432609835
@@ -2156,7 +2156,7 @@ GDP growth (annual %),Suriname,2023,2.53956675446825
 GDP growth (annual %),Eswatini,2023,5.01490471257054
 GDP growth (annual %),Sweden,2023,-0.310670184725893
 GDP growth (annual %),Switzerland,2023,0.716066868695833
-GDP growth (annual %),Syrian Arab Republic,2023,
+GDP growth (annual %),Syria,2023,
 GDP growth (annual %),Tajikistan,2023,8.29999921651935
 GDP growth (annual %),Tanzania,2023,5.06952353203394
 GDP growth (annual %),Thailand,2023,1.88725725050934
@@ -2165,7 +2165,7 @@ GDP growth (annual %),Togo,2023,6.40792215636242
 GDP growth (annual %),Tonga,2023,
 GDP growth (annual %),Trinidad and Tobago,2023,1.34767518168188
 GDP growth (annual %),Tunisia,2023,0.0391565674939329
-GDP growth (annual %),Turkiye,2023,5.11116818488702
+GDP growth (annual %),Turkey,2023,5.11116818488702
 GDP growth (annual %),Turkmenistan,2023,6.30015758549871
 GDP growth (annual %),Turks and Caicos Islands,2023,1.19999674543641
 GDP growth (annual %),Tuvalu,2023,3.85280919517032
@@ -2177,8 +2177,8 @@ GDP growth (annual %),United States,2023,2.88755600906016
 GDP growth (annual %),Uruguay,2023,0.3674751756175
 GDP growth (annual %),Uzbekistan,2023,6.29141635081155
 GDP growth (annual %),Vanuatu,2023,2.21294177094788
-GDP growth (annual %),"Venezuela, RB",2023,
-GDP growth (annual %),Viet Nam,2023,5.0464307361882
+GDP growth (annual %),Venezuela,2023,
+GDP growth (annual %),Vietnam,2023,5.0464307361882
 GDP growth (annual %),Virgin Islands (U.S.),2023,
 GDP growth (annual %),West Bank and Gaza,2023,-5.41093700031979
 GDP growth (annual %),"Yemen, Rep.",2023,
@@ -2197,7 +2197,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Australia,2023,5.5970149253731
 "Inflation, consumer prices (annual %)",Austria,2023,7.81413417002832
 "Inflation, consumer prices (annual %)",Azerbaijan,2023,8.78543049849081
-"Inflation, consumer prices (annual %)","Bahamas, The",2023,3.05291578969743
+"Inflation, consumer prices (annual %)",Bahamas,2023,3.05291578969743
 "Inflation, consumer prices (annual %)",Bahrain,2023,0.0746206782192256
 "Inflation, consumer prices (annual %)",Bangladesh,2023,9.8835030377921
 "Inflation, consumer prices (annual %)",Barbados,2023,9.79207077126447
@@ -2212,7 +2212,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Botswana,2023,5.0676154934383
 "Inflation, consumer prices (annual %)",Brazil,2023,4.59356282283204
 "Inflation, consumer prices (annual %)",British Virgin Islands,2023,
-"Inflation, consumer prices (annual %)",Brunei Darussalam,2023,0.35706431153689
+"Inflation, consumer prices (annual %)",Brunei,2023,0.35706431153689
 "Inflation, consumer prices (annual %)",Bulgaria,2023,9.44284140088564
 "Inflation, consumer prices (annual %)",Burkina Faso,2023,0.742910428668841
 "Inflation, consumer prices (annual %)",Burundi,2023,26.9414835762453
@@ -2228,8 +2228,8 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",China,2023,0.234836828893051
 "Inflation, consumer prices (annual %)",Colombia,2023,11.7359044948689
 "Inflation, consumer prices (annual %)",Comoros,2023,
-"Inflation, consumer prices (annual %)","Congo, Dem. Rep.",2023,
-"Inflation, consumer prices (annual %)","Congo, Rep.",2023,4.30174563591016
+"Inflation, consumer prices (annual %)",Congo (Kinshasa),2023,
+"Inflation, consumer prices (annual %)",Congo (Brazzaville),2023,4.30174563591016
 "Inflation, consumer prices (annual %)",Costa Rica,2023,0.525193508693455
 "Inflation, consumer prices (annual %)",Cote d'Ivoire,2023,4.38711707003279
 "Inflation, consumer prices (annual %)",Croatia,2023,7.9412817758683
@@ -2242,7 +2242,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Dominica,2023,4.22769324983409
 "Inflation, consumer prices (annual %)",Dominican Republic,2023,4.78561281021135
 "Inflation, consumer prices (annual %)",Ecuador,2023,2.21568764237058
-"Inflation, consumer prices (annual %)","Egypt, Arab Rep.",2023,33.8847763115546
+"Inflation, consumer prices (annual %)",Egypt,2023,33.8847763115546
 "Inflation, consumer prices (annual %)",El Salvador,2023,4.04554694222477
 "Inflation, consumer prices (annual %)",Equatorial Guinea,2023,
 "Inflation, consumer prices (annual %)",Eritrea,2023,
@@ -2254,7 +2254,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",France,2023,4.87835726508441
 "Inflation, consumer prices (annual %)",French Polynesia,2023,
 "Inflation, consumer prices (annual %)",Gabon,2023,3.62901534185376
-"Inflation, consumer prices (annual %)","Gambia, The",2023,16.9742129632327
+"Inflation, consumer prices (annual %)",Gambia,2023,16.9742129632327
 "Inflation, consumer prices (annual %)",Georgia,2023,2.48776056578715
 "Inflation, consumer prices (annual %)",Germany,2023,5.94643667725823
 "Inflation, consumer prices (annual %)",Ghana,2023,38.1069656296501
@@ -2274,7 +2274,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Iceland,2023,8.73630299937298
 "Inflation, consumer prices (annual %)",India,2023,5.64914318907925
 "Inflation, consumer prices (annual %)",Indonesia,2023,3.67013142377007
-"Inflation, consumer prices (annual %)","Iran, Islamic Rep.",2023,44.5791857572797
+"Inflation, consumer prices (annual %)",Iran,2023,44.5791857572797
 "Inflation, consumer prices (annual %)",Iraq,2023,4.35835351089586
 "Inflation, consumer prices (annual %)",Ireland,2023,6.29942487419125
 "Inflation, consumer prices (annual %)",Isle of Man,2023,
@@ -2287,11 +2287,11 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Kenya,2023,7.67139634029402
 "Inflation, consumer prices (annual %)",Kiribati,2023,9.28307374517721
 "Inflation, consumer prices (annual %)","Korea, Dem. People's Rep.",2023,
-"Inflation, consumer prices (annual %)","Korea, Rep.",2023,3.5974562502901
+"Inflation, consumer prices (annual %)",South Korea,2023,3.5974562502901
 "Inflation, consumer prices (annual %)",Kosovo,2023,4.94432438791283
 "Inflation, consumer prices (annual %)",Kuwait,2023,3.64216403030709
 "Inflation, consumer prices (annual %)",Kyrgyz Republic,2023,10.7532770416742
-"Inflation, consumer prices (annual %)",Lao PDR,2023,31.2301341732646
+"Inflation, consumer prices (annual %)",Laos,2023,31.2301341732646
 "Inflation, consumer prices (annual %)",Latvia,2023,8.93804623316637
 "Inflation, consumer prices (annual %)",Lebanon,2023,221.341644023365
 "Inflation, consumer prices (annual %)",Lesotho,2023,6.34221743124953
@@ -2312,7 +2312,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Mauritania,2023,4.95305034506872
 "Inflation, consumer prices (annual %)",Mauritius,2023,7.05298238454735
 "Inflation, consumer prices (annual %)",Mexico,2023,5.52796087314389
-"Inflation, consumer prices (annual %)","Micronesia, Fed. Sts.",2023,
+"Inflation, consumer prices (annual %)",Micronesia,2023,
 "Inflation, consumer prices (annual %)",Moldova,2023,13.41701043813
 "Inflation, consumer prices (annual %)",Monaco,2023,
 "Inflation, consumer prices (annual %)",Mongolia,2023,10.3475831314339
@@ -2344,7 +2344,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Puerto Rico,2023,
 "Inflation, consumer prices (annual %)",Qatar,2023,3.02764899198902
 "Inflation, consumer prices (annual %)",Romania,2023,10.3971874764996
-"Inflation, consumer prices (annual %)",Russian Federation,2023,
+"Inflation, consumer prices (annual %)",Russia,2023,
 "Inflation, consumer prices (annual %)",Rwanda,2023,19.789546746467
 "Inflation, consumer prices (annual %)",Samoa,2023,7.92164684826777
 "Inflation, consumer prices (annual %)",San Marino,2023,5.93190858629403
@@ -2356,7 +2356,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Sierra Leone,2023,47.6428733253179
 "Inflation, consumer prices (annual %)",Singapore,2023,4.82146729476466
 "Inflation, consumer prices (annual %)",Sint Maarten (Dutch part),2023,
-"Inflation, consumer prices (annual %)",Slovak Republic,2023,10.5319476645211
+"Inflation, consumer prices (annual %)",Slovakia,2023,10.5319476645211
 "Inflation, consumer prices (annual %)",Slovenia,2023,7.44687717385838
 "Inflation, consumer prices (annual %)",Solomon Islands,2023,5.88585897042164
 "Inflation, consumer prices (annual %)",Somalia,2023,
@@ -2373,7 +2373,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Eswatini,2023,
 "Inflation, consumer prices (annual %)",Sweden,2023,8.54862489748902
 "Inflation, consumer prices (annual %)",Switzerland,2023,2.13540088016377
-"Inflation, consumer prices (annual %)",Syrian Arab Republic,2023,
+"Inflation, consumer prices (annual %)",Syria,2023,
 "Inflation, consumer prices (annual %)",Tajikistan,2023,
 "Inflation, consumer prices (annual %)",Tanzania,2023,3.79923291384916
 "Inflation, consumer prices (annual %)",Thailand,2023,1.22802623546169
@@ -2382,7 +2382,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Tonga,2023,6.35112980255189
 "Inflation, consumer prices (annual %)",Trinidad and Tobago,2023,4.62930242419968
 "Inflation, consumer prices (annual %)",Tunisia,2023,9.32899597507865
-"Inflation, consumer prices (annual %)",Turkiye,2023,53.8594087593315
+"Inflation, consumer prices (annual %)",Turkey,2023,53.8594087593315
 "Inflation, consumer prices (annual %)",Turkmenistan,2023,
 "Inflation, consumer prices (annual %)",Turks and Caicos Islands,2023,
 "Inflation, consumer prices (annual %)",Tuvalu,2023,
@@ -2394,8 +2394,8 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Inflation, consumer prices (annual %)",Uruguay,2023,5.86910359896119
 "Inflation, consumer prices (annual %)",Uzbekistan,2023,9.95659071258018
 "Inflation, consumer prices (annual %)",Vanuatu,2023,11.1825017088175
-"Inflation, consumer prices (annual %)","Venezuela, RB",2023,
-"Inflation, consumer prices (annual %)",Viet Nam,2023,3.25289282667662
+"Inflation, consumer prices (annual %)",Venezuela,2023,
+"Inflation, consumer prices (annual %)",Vietnam,2023,3.25289282667662
 "Inflation, consumer prices (annual %)",Virgin Islands (U.S.),2023,
 "Inflation, consumer prices (annual %)",West Bank and Gaza,2023,5.87110177678988
 "Inflation, consumer prices (annual %)","Yemen, Rep.",2023,
@@ -2414,7 +2414,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Australia,2023,3.668
 "Unemployment, total (% of total labor force) (national estimate)",Austria,2023,5.264
 "Unemployment, total (% of total labor force) (national estimate)",Azerbaijan,2023,
-"Unemployment, total (% of total labor force) (national estimate)","Bahamas, The",2023,8.643
+"Unemployment, total (% of total labor force) (national estimate)",Bahamas,2023,8.643
 "Unemployment, total (% of total labor force) (national estimate)",Bahrain,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Bangladesh,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Barbados,2023,
@@ -2429,7 +2429,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Botswana,2023,23.381
 "Unemployment, total (% of total labor force) (national estimate)",Brazil,2023,7.947
 "Unemployment, total (% of total labor force) (national estimate)",British Virgin Islands,2023,
-"Unemployment, total (% of total labor force) (national estimate)",Brunei Darussalam,2023,5.296
+"Unemployment, total (% of total labor force) (national estimate)",Brunei,2023,5.296
 "Unemployment, total (% of total labor force) (national estimate)",Bulgaria,2023,4.319
 "Unemployment, total (% of total labor force) (national estimate)",Burkina Faso,2023,5.348
 "Unemployment, total (% of total labor force) (national estimate)",Burundi,2023,
@@ -2445,8 +2445,8 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",China,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Colombia,2023,9.603
 "Unemployment, total (% of total labor force) (national estimate)",Comoros,2023,
-"Unemployment, total (% of total labor force) (national estimate)","Congo, Dem. Rep.",2023,
-"Unemployment, total (% of total labor force) (national estimate)","Congo, Rep.",2023,
+"Unemployment, total (% of total labor force) (national estimate)",Congo (Kinshasa),2023,
+"Unemployment, total (% of total labor force) (national estimate)",Congo (Brazzaville),2023,
 "Unemployment, total (% of total labor force) (national estimate)",Costa Rica,2023,8.325
 "Unemployment, total (% of total labor force) (national estimate)",Cote d'Ivoire,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Croatia,2023,6.086
@@ -2459,7 +2459,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Dominica,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Dominican Republic,2023,5.555
 "Unemployment, total (% of total labor force) (national estimate)",Ecuador,2023,3.51
-"Unemployment, total (% of total labor force) (national estimate)","Egypt, Arab Rep.",2023,6.753
+"Unemployment, total (% of total labor force) (national estimate)",Egypt,2023,6.753
 "Unemployment, total (% of total labor force) (national estimate)",El Salvador,2023,2.992
 "Unemployment, total (% of total labor force) (national estimate)",Equatorial Guinea,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Eritrea,2023,
@@ -2471,7 +2471,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",France,2023,7.335
 "Unemployment, total (% of total labor force) (national estimate)",French Polynesia,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Gabon,2023,
-"Unemployment, total (% of total labor force) (national estimate)","Gambia, The",2023,6.479
+"Unemployment, total (% of total labor force) (national estimate)",Gambia,2023,6.479
 "Unemployment, total (% of total labor force) (national estimate)",Georgia,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Germany,2023,3.068
 "Unemployment, total (% of total labor force) (national estimate)",Ghana,2023,
@@ -2491,7 +2491,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Iceland,2023,3.518
 "Unemployment, total (% of total labor force) (national estimate)",India,2023,4.172
 "Unemployment, total (% of total labor force) (national estimate)",Indonesia,2023,3.308
-"Unemployment, total (% of total labor force) (national estimate)","Iran, Islamic Rep.",2023,
+"Unemployment, total (% of total labor force) (national estimate)",Iran,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Iraq,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Ireland,2023,4.288
 "Unemployment, total (% of total labor force) (national estimate)",Isle of Man,2023,
@@ -2504,11 +2504,11 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Kenya,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Kiribati,2023,
 "Unemployment, total (% of total labor force) (national estimate)","Korea, Dem. People's Rep.",2023,
-"Unemployment, total (% of total labor force) (national estimate)","Korea, Rep.",2023,2.675
+"Unemployment, total (% of total labor force) (national estimate)",South Korea,2023,2.675
 "Unemployment, total (% of total labor force) (national estimate)",Kosovo,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Kuwait,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Kyrgyz Republic,2023,
-"Unemployment, total (% of total labor force) (national estimate)",Lao PDR,2023,
+"Unemployment, total (% of total labor force) (national estimate)",Laos,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Latvia,2023,6.465
 "Unemployment, total (% of total labor force) (national estimate)",Lebanon,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Lesotho,2023,
@@ -2529,7 +2529,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Mauritania,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Mauritius,2023,5.571
 "Unemployment, total (% of total labor force) (national estimate)",Mexico,2023,2.765
-"Unemployment, total (% of total labor force) (national estimate)","Micronesia, Fed. Sts.",2023,
+"Unemployment, total (% of total labor force) (national estimate)",Micronesia,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Moldova,2023,1.57
 "Unemployment, total (% of total labor force) (national estimate)",Monaco,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Mongolia,2023,5.178
@@ -2561,7 +2561,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Puerto Rico,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Qatar,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Romania,2023,5.592
-"Unemployment, total (% of total labor force) (national estimate)",Russian Federation,2023,3.076
+"Unemployment, total (% of total labor force) (national estimate)",Russia,2023,3.076
 "Unemployment, total (% of total labor force) (national estimate)",Rwanda,2023,12.352
 "Unemployment, total (% of total labor force) (national estimate)",Samoa,2023,
 "Unemployment, total (% of total labor force) (national estimate)",San Marino,2023,
@@ -2573,7 +2573,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Sierra Leone,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Singapore,2023,3.444
 "Unemployment, total (% of total labor force) (national estimate)",Sint Maarten (Dutch part),2023,
-"Unemployment, total (% of total labor force) (national estimate)",Slovak Republic,2023,5.843
+"Unemployment, total (% of total labor force) (national estimate)",Slovakia,2023,5.843
 "Unemployment, total (% of total labor force) (national estimate)",Slovenia,2023,3.652
 "Unemployment, total (% of total labor force) (national estimate)",Solomon Islands,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Somalia,2023,
@@ -2590,7 +2590,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Eswatini,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Sweden,2023,7.611
 "Unemployment, total (% of total labor force) (national estimate)",Switzerland,2023,4.043
-"Unemployment, total (% of total labor force) (national estimate)",Syrian Arab Republic,2023,
+"Unemployment, total (% of total labor force) (national estimate)",Syria,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Tajikistan,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Tanzania,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Thailand,2023,0.733
@@ -2599,7 +2599,7 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Tonga,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Trinidad and Tobago,2023,3.362
 "Unemployment, total (% of total labor force) (national estimate)",Tunisia,2023,15.106
-"Unemployment, total (% of total labor force) (national estimate)",Turkiye,2023,9.388
+"Unemployment, total (% of total labor force) (national estimate)",Turkey,2023,9.388
 "Unemployment, total (% of total labor force) (national estimate)",Turkmenistan,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Turks and Caicos Islands,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Tuvalu,2023,
@@ -2611,8 +2611,8 @@ GDP growth (annual %),Zimbabwe,2023,5.33673049519527
 "Unemployment, total (% of total labor force) (national estimate)",Uruguay,2023,8.355
 "Unemployment, total (% of total labor force) (national estimate)",Uzbekistan,2023,
 "Unemployment, total (% of total labor force) (national estimate)",Vanuatu,2023,
-"Unemployment, total (% of total labor force) (national estimate)","Venezuela, RB",2023,
-"Unemployment, total (% of total labor force) (national estimate)",Viet Nam,2023,1.645
+"Unemployment, total (% of total labor force) (national estimate)",Venezuela,2023,
+"Unemployment, total (% of total labor force) (national estimate)",Vietnam,2023,1.645
 "Unemployment, total (% of total labor force) (national estimate)",Virgin Islands (U.S.),2023,
 "Unemployment, total (% of total labor force) (national estimate)",West Bank and Gaza,2023,
 "Unemployment, total (% of total labor force) (national estimate)","Yemen, Rep.",2023,

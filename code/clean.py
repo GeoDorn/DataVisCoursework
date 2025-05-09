@@ -79,6 +79,39 @@ def rename_columns(df4, df5, df6):
     
     return df4, df5, df6
 
+def rename_country_format(df1, df2, df3, df4, df5, df6):
+    country_replacements = {
+        'Venezuela, RB': 'Venezuela',
+        'Korea, Rep.': 'South Korea',
+        'Korea, South': 'South Korea',
+        'Korea, North': 'North Korea',
+        'United States': 'United States',
+        'US': 'United States',
+        'Viet Nam': 'Vietnam',
+        'Russian Federation': 'Russia',
+        'Egypt, Arab Rep.': 'Egypt',
+        'Iran, Islamic Rep.': 'Iran',
+        'Bahamas, The': 'Bahamas',
+        'Brunei Darussalam': 'Brunei',
+        'Congo, Rep.': 'Congo (Brazzaville)',
+        'Congo, Dem. Rep.': 'Congo (Kinshasa)',
+        'Gambia, The': 'Gambia',
+        'Lao PDR': 'Laos',
+        'Micronesia, Fed. Sts.': 'Micronesia',
+        'Slovak Republic': 'Slovakia',
+        'Syrian Arab Republic': 'Syria',
+        'Turkiye': 'Turkey',
+        'Saint Kitts and Nevis': 'St. Kitts and Nevis',
+        'Saint Lucia': 'St. Lucia',
+        'Saint Vincent and the Grenadines': 'St. Vincent and the Grenadines'
+    }
+
+    for df in [df1, df2, df3, df4, df5, df6]:
+        if 'Country/Region' in df.columns:
+            df['Country/Region'] = df['Country/Region'].replace(country_replacements)
+
+    return df1, df2, df3, df4, df5, df6
+
 def group_by_country(df1, df2, df3, df4, df5, df6):
     df1 = df1.groupby(['Country/Region']).sum().reset_index()
     df2 = df2.groupby(['Country/Region']).sum().reset_index()
@@ -117,6 +150,7 @@ if __name__ == "__main__":
     df1, df2, df3, df4, df5, df6 = clear_empty_rows(df1, df2, df3, df4, df5, df6)
     df4, df5, df6 = rename_columns(df4, df5, df6)
     df1, df2, df3, df4, df5, df6 = drop_columns(df1, df2, df3, df4, df5, df6)
+    df1, df2, df3, df4, df5, df6 = rename_country_format(df1, df2, df3, df4, df5, df6)
     df1, df2, df3, df4, df5, df6 = group_by_country(df1, df2, df3, df4, df5, df6)
     df1, df2, df3, df4, df5, df6 = wide_to_long(df1, df2, df3, df4, df5, df6)
     df1, df2, df3, df4, df6 = convert_date(df1, df2, df3, df4, df6)

@@ -21,10 +21,7 @@ df_population['Date'] = pd.to_datetime(df_population['Date'])
 
 # Pivot the economic DataFrame to have indicators as columns
 df_economic_pivot = df_economic.pivot_table(index=['Country/Region', 'Year'], columns='Series Name', values='Value').reset_index()
-if 'Country/Region' in df_economic_pivot.columns:
-      df_economic_pivot.loc[df_economic_pivot['Country/Region'] == 'Venezuela RB', 'Country/Region'] = 'Venezuela'
-      df_economic_pivot.loc[df_economic_pivot['Country/Region'] == 'Korea, Rep', 'Country/Region'] = 'South Korea'
-      df_economic_pivot.loc[df_economic_pivot['Country/Region'] == "Korea, Dem. People's Rep.", 'Country/Region'] = 'North Korea'
+
 # --- Merging DataFrames ---
 # Merge the COVID related DataFrames (cases, deaths, recovered, vaccine)
 # Start with merging cases and deaths
@@ -33,11 +30,7 @@ df_merged = pd.merge(df_cases, df_deaths, on=['Country/Region', 'Date'], how='ou
 #df_merged = pd.merge(df_merged, df_recovered, on=['Country/Region', 'Date'], how='outer')
 # Merge with vaccine data
 df_merged = pd.merge(df_merged, df_vaccine, on=['Country/Region', 'Date'], how='outer')
-if 'Country/Region' in df_merged.columns:
-      df_merged.loc[df_merged['Country/Region'] == 'US', 'Country/Region'] = 'United States'
-      df_merged.loc[df_merged['Country/Region'] == 'Turkey', 'Country/Region'] = 'Turkiye'
-      df_merged.loc[df_merged['Country/Region'] == 'Korea, South', 'Country/Region'] = 'South Korea'
-      df_merged.loc[df_merged['Country/Region'] == 'Korea, North', 'Country/Region'] = 'North Korea'
+# Merge with population data
 df_merged = pd.merge(df_merged, df_population, on=['Country/Region', 'Date'], how='outer')
       
     
@@ -59,9 +52,9 @@ print(f"Rows: {df_combined.shape[0]}, Columns: {df_combined.shape[1]}")
 # Display the date range in the combined DataFrame
 min_date = df_combined['Date'].dropna().min()
 max_date = df_combined['Date'].dropna().max()
-df_combined = df_combined[~df_combined['Country/Region'].isin(['Winter Olympics 2022', 'Summer Olympics 2020'])]
+df_combined = df_combined[~df_combined['Country/Region'].isin(['Winter Olympics 2022', 'Summer Olympics 2020', 'Diamond Princess', 'World', 'American Samoa', 'Aruba', 'Bermuda', 'Cayman Islands', 'Channel Islands', 'Curacao', 'Faroe Islands', 'French Polynesia', 'Greenland', 'Guam', 'Hong Kong SAR, China', 'Isle of Man', 'Kyrgyz Republic', 'Macao SAR, China', 'Myanmar', 'New Caledonia', 'Northern Mariana Islands', 'Puerto Rico', 'Sint Maarten (Dutch part)', 'St. Martin (French part)', 'Turkmenistan', 'Turks and Caicos Islands', 'Virgin Islands (U.S.)' ])]
 df_combined = df_combined.drop(columns=['Year'])
-df_combined = df_combined.dropna()
+#df_combined = df_combined.dropna()
 percentage_columns = [
     'GDP growth (annual %)', 
     'Inflation, consumer prices (annual %)',

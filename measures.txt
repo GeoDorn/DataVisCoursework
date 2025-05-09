@@ -5,3 +5,17 @@ VAR CurrentDeaths = SUM('combined_dataset'[Deaths])
 VAR PreviousDeaths = CALCULATE(SUM('combined_dataset'[Deaths]), FILTER(ALL('combined_dataset'), 'combined_dataset'[Date] = PreviousDate))
 RETURN CurrentDeaths - PreviousDeaths
 
+Total Deaths (Sum of Latest per Country) = 
+    SUMX(
+        VALUES(combined_dataset[Country/Region]), // Iterate over each distinct country
+        VAR MaxDateForThisCountry = CALCULATE(MAX(combined_dataset[Date])) // Get the latest date FOR THIS specific COUNTRY in the iteration
+        RETURN
+        CALCULATE(
+            MAX(combined_dataset[Deaths]), // Get the cumulative deaths on that latest date for this country.
+                                    // MAX is used here to pick the single value for that country on its last reported date.
+            FILTER(
+                ALL(combined_dataset[Date]), // Ensure we look across all dates for this country
+                combined_dataset[Date] = MaxDateForThisCountry
+            )
+        )
+    )
