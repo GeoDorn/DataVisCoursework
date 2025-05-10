@@ -52,7 +52,7 @@ print(f"Rows: {df_combined.shape[0]}, Columns: {df_combined.shape[1]}")
 # Display the date range in the combined DataFrame
 min_date = df_combined['Date'].dropna().min()
 max_date = df_combined['Date'].dropna().max()
-df_combined = df_combined[~df_combined['Country/Region'].isin(['Winter Olympics 2022', 'Summer Olympics 2020', 'Diamond Princess', 'World', 'American Samoa', 'Aruba', 'Bermuda', 'Cayman Islands', 'Channel Islands', 'Curacao', 'Faroe Islands', 'French Polynesia', 'Greenland', 'Guam', 'Hong Kong SAR, China', 'Isle of Man', 'Kyrgyz Republic', 'Macao SAR, China', 'Myanmar', 'New Caledonia', 'Northern Mariana Islands', 'Puerto Rico', 'Sint Maarten (Dutch part)', 'St. Martin (French part)', 'Turkmenistan', 'Turks and Caicos Islands', 'Virgin Islands (U.S.)' ])]
+df_combined = df_combined[~df_combined['Country/Region'].isin(['Winter Olympics 2022', 'Summer Olympics 2020', 'Diamond Princess', 'World', 'American Samoa', 'Aruba', 'Bermuda', 'Cayman Islands', 'Channel Islands', 'Curacao', 'Faroe Islands', 'French Polynesia', 'Greenland', 'Guam', 'Hong Kong SAR, China', 'Isle of Man', 'Kyrgyz Republic', 'Macao SAR, China', 'Myanmar', 'New Caledonia', 'Northern Mariana Islands', 'Puerto Rico', 'Sint Maarten (Dutch part)', 'St. Martin (French part)', 'Turkmenistan', 'Turks and Caicos Islands', 'Virgin Islands (U.S.)', 'British Virgin Islands', 'Gibraltar', "Korea, Dem. People's Rep.", 'Yemen, Rep.' ])]
 df_combined = df_combined.drop(columns=['Year'])
 #df_combined = df_combined.dropna()
 percentage_columns = [

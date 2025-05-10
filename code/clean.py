@@ -66,7 +66,7 @@ def drop_columns(df1, df2, df3, df4, df5, df6):
     df2 = df2.drop(columns=['Province/State', 'Lat', 'Long'])
     df3 = df3.drop(columns=['Province/State', 'Lat', 'Long'])
     df4 = df4.drop(columns=['UID', 'Province_State', 'Doses_admin'])
-    df5 = df5.drop(columns=['UID', 'iso2', 'iso3', 'code3', 'FIPS', 'Admin2', 'Lat', 'Long_', 'Combined_Key', 'Province_State'])
+    df5 = df5.drop(columns=['UID', 'iso2', 'iso3', 'code3', 'FIPS', 'Admin2', 'Lat', 'Long_', 'Combined_Key', 'Province_State', 'Population'])
     df6 = df6.drop(columns=['Series Code', 'Country Code'])
 
     return df1, df2, df3, df4, df5, df6
