@@ -127,7 +127,7 @@ def wide_to_long(df1, df2, df3, df4, df5, df6):
     df1 = pd.melt(df1, id_vars=['Country/Region'], var_name='Date', value_name='Confirmed')
     df2 = pd.melt(df2, id_vars=['Country/Region'], var_name='Date', value_name='Deaths')
     df3 = pd.melt(df3, id_vars=['Country/Region'], var_name='Date', value_name='Recovered')
-    df5 = pd.melt(df5, id_vars=['Country/Region', 'Population'], var_name='Date', value_name='Doses Administered')
+    df5 = pd.melt(df5, id_vars=['Country/Region', ], var_name='Date', value_name='Doses Administered')
     df6 = pd.melt(df6, id_vars=['Series Name', 'Country/Region'],
                   value_vars=['Year_2020', 'Year_2021', 'Year_2022', 'Year_2023'],
                   var_name='Year',
