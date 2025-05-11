@@ -3,11 +3,12 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import plotly.express as px # Moved import to the top
-
+import plotly.express as px 
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.linear_model import LinearRegression
+from sklearn.decomposition import PCA
+from sklearn.metrics import silhouette_score
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 
@@ -56,6 +57,8 @@ plt.ylabel("GDP Growth (annual %)")
 plt.grid(True)
 plt.legend(title="Cluster")
 plt.tight_layout()
+sil_score = silhouette_score(X_scaled, features["Cluster"])
+print(f"Silhouette Score: {sil_score}")
 plt.savefig(os.path.join(visualizations_folder, "country_clustering_vaccination_gdp.png"))
 plt.show()
 

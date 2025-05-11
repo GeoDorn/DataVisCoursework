@@ -9,7 +9,7 @@ df_deaths = pd.read_csv('data/cleaned/cleaned_deaths_long.csv')
 df_economic = pd.read_csv('data/cleaned/cleaned_economic_indicators_long.csv')
 df_recovered = pd.read_csv('data/cleaned/cleaned_recovered_long.csv')
 df_vaccine = pd.read_csv('data/cleaned/cleaned_vaccine_long.csv')
-df_population = pd.read_csv('data/cleaned/cleaned_vaccine_doses_long.csv')
+df_vaccine_doses = pd.read_csv('data/cleaned/cleaned_vaccine_doses_long.csv')
 
 # --- Data Preparation ---
 # Convert `Date` columns to datetime objects
@@ -17,7 +17,7 @@ df_cases['Date'] = pd.to_datetime(df_cases['Date'])
 df_deaths['Date'] = pd.to_datetime(df_deaths['Date'])
 df_recovered['Date'] = pd.to_datetime(df_recovered['Date'])
 df_vaccine['Date'] = pd.to_datetime(df_vaccine['Date'])
-df_population['Date'] = pd.to_datetime(df_population['Date'])
+df_vaccine_doses['Date'] = pd.to_datetime(df_vaccine_doses['Date'])
 
 # Pivot the economic DataFrame to have indicators as columns
 df_economic_pivot = df_economic.pivot_table(index=['Country/Region', 'Year'], columns='Series Name', values='Value').reset_index()
@@ -31,12 +31,10 @@ df_merged = pd.merge(df_cases, df_deaths, on=['Country/Region', 'Date'], how='ou
 # Merge with vaccine data
 df_merged = pd.merge(df_merged, df_vaccine, on=['Country/Region', 'Date'], how='outer')
 # Merge with population data
-df_merged = pd.merge(df_merged, df_population, on=['Country/Region', 'Date'], how='outer')
+df_merged = pd.merge(df_merged, df_vaccine_doses, on=['Country/Region', 'Date'], how='outer')
       
-    
 # Extract Year from the Date column in the merged COVID DataFrame
 df_merged['Year'] = df_merged['Date'].dt.year
-
 
 # Merge the combined COVID data with the pivoted economic data
 df_combined = pd.merge(df_merged, df_economic_pivot, on=['Country/Region', 'Year'], how='outer')
@@ -63,7 +61,6 @@ percentage_columns = [
 for col in percentage_columns:
     # First ensure the column is numeric
     df_combined[col] = pd.to_numeric(df_combined[col], errors='coerce')
-    
     # Then divide by 100
     df_combined[col] = df_combined[col] / 100
 print(f"\nDate range in Combined DataFrame: {min_date} to {max_date}")
