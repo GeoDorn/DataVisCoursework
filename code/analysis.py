@@ -48,6 +48,12 @@ features["Cluster"] = kmeans.fit_predict(X_scaled)
 clustered = features[["Country/Region", "Vaccination Rate", "GDP growth (annual %)", "Cluster"]]
 clustered.to_csv("clustered_countries.csv", index=False) # Keeps data CSV in root
 
+sil_score = silhouette_score(X_scaled, features["Cluster"])
+print(f"Silhouette Score: {sil_score}")
+
+inertia = kmeans.inertia_
+print(f"Inertia: {inertia}")
+
 # Plot clusters
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=clustered, x="Vaccination Rate", y="GDP growth (annual %)", hue="Cluster", palette="Set2", s=100)
