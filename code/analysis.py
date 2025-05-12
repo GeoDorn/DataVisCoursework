@@ -143,18 +143,14 @@ rollout_dates = df[df['People_at_least_one_dose'].notna()] \
     .groupby('Country/Region')['Date'].min().reset_index()
 rollout_dates.columns = ['Country/Region', 'Vaccine_Rollout_Date']
 
-# 2.2 Find the latest available Deaths per 100k for each country
 latest_deaths = df.sort_values('Date') \
     .groupby('Country/Region').tail(1)[['Country/Region', 'Deaths per 100k']]
 
-# 2.3 Merge the two dataframes
 analysis_df = rollout_dates.merge(latest_deaths, on='Country/Region')
 
-# 2.4 Convert rollout date to numeric (days since Jan 1, 2020)
 base_date = pd.to_datetime('2020-01-01')
 analysis_df['Days_To_Rollout'] = (analysis_df['Vaccine_Rollout_Date'] - base_date).dt.days
 
-# 2.5 Plot Rollout Time vs Deaths
 plt.figure(figsize=(10, 6))
 sns.regplot(data=analysis_df, x='Days_To_Rollout', y='Deaths per 100k')
 plt.title("Earlier Vaccine Rollouts Correlate with Lower Deaths")
@@ -170,10 +166,6 @@ plt.text(
     bbox=dict(facecolor='white', edgecolor='black', boxstyle='round,pad=0.5')
 )
 plt.tight_layout()
-
-# Save the plot
-
-plt_path = os.path.join(visualizations_folder, "rollout_vs_deaths.png")
-plt.savefig(plt_path)
+plt.savefig(os.path.join(visualizations_folder, "rollout_vs_deaths.png"))
 
 print(f"\nAll visualizations have been attempted to be saved in the '{visualizations_folder}' folder.")
