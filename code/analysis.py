@@ -42,11 +42,11 @@ features = df_latest[["Country/Region", "Vaccination Rate", "GDP growth (annual 
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(features[["Vaccination Rate", "GDP growth (annual %)"]])
 
-kmeans = KMeans(n_clusters=3, random_state=42, n_init='auto') # Added n_init for KMeans
+kmeans = KMeans(n_clusters=3, random_state=42, n_init='auto') 
 features["Cluster"] = kmeans.fit_predict(X_scaled)
 
 clustered = features[["Country/Region", "Vaccination Rate", "GDP growth (annual %)", "Cluster"]]
-clustered.to_csv("clustered_countries.csv", index=False) # Keeps data CSV in root
+clustered.to_csv("clustered_countries.csv", index=False) 
 
 sil_score = silhouette_score(X_scaled, features["Cluster"])
 print(f"Silhouette Score: {sil_score}")
@@ -54,6 +54,16 @@ print(f"Silhouette Score: {sil_score}")
 inertia = kmeans.inertia_
 print(f"Inertia: {inertia}")
 
+cluster_summary = clustered.groupby("Cluster").agg({
+    "Vaccination Rate": "mean",
+    "GDP growth (annual %)": "mean",
+    "Country/Region": "count"
+}).rename(columns={
+    "Vaccination Rate": "Avg Vaccination Rate",
+    "GDP growth (annual %)": "Avg GDP Growth",
+    "Country/Region": "Countries in Cluster"
+})
+print(cluster_summary)
 # Plot clusters
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=clustered, x="Vaccination Rate", y="GDP growth (annual %)", hue="Cluster", palette="Set2", s=100)
@@ -63,8 +73,6 @@ plt.ylabel("GDP Growth (annual %)")
 plt.grid(True)
 plt.legend(title="Cluster")
 plt.tight_layout()
-sil_score = silhouette_score(X_scaled, features["Cluster"])
-print(f"Silhouette Score: {sil_score}")
 plt.savefig(os.path.join(visualizations_folder, "country_clustering_vaccination_gdp.png"))
 plt.show()
 
