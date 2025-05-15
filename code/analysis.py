@@ -16,20 +16,19 @@ from sklearn.metrics import mean_squared_error, r2_score
 visualizations_folder = "visualizations"
 os.makedirs(visualizations_folder, exist_ok=True)
 
-# ===  Load and Preprocess Data ===
-# Read the merged dataset
+# Load the cleaned dataset
 df = pd.read_csv('data/merged/combined_dataset.csv')
 
-# Feature engineering
+# Add Feature engineering
 df['Vaccination Rate'] = df['People_at_least_one_dose'] / df['Population, total'] * 100
 df['Cases per 100k'] = df['Confirmed'] / df['Population, total'] * 100000
 df['Deaths per 100k'] = df['Deaths'] / df['Population, total'] * 100000
 
-# Save cleaned dataset
+# Save completed dataset
 final_path = os.path.join("data/complete/final_dataset.csv")
 df.to_csv(final_path, index=False)
 
-# Reload the cleaned dataset
+# Reload the final dataset
 df = pd.read_csv(final_path)
 
 # Drop rows with missing critical data
