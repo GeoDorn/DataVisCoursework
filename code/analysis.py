@@ -126,18 +126,7 @@ plt.title("Correlation Heatmap")
 plt.tight_layout()
 plt.savefig(os.path.join(visualizations_folder, "correlation_matrix.png"))
 
-
-# === Plotly Choropleth map of Vaccination Rate ===
-#latest_cases = df.sort_values('Date').drop_duplicates('Country/Region', keep='last')
-#fig_choropleth = px.choropleth(latest_cases,
-#                               locations="Country/Region",
-#                               locationmode="country names",
-#                               color="Vaccination Rate",
-#                               color_continuous_scale="Blues",
-#                               title="Global Vaccination Rate (%)")
-#fig_choropleth.show()
-
-# === Early Rollout = Less deaths ===
+# ===  Policy Maker Visualization ===
 df["Date"] = pd.to_datetime(df["Date"])
 rollout_dates = df[df['People_at_least_one_dose'].notna()] \
     .groupby('Country/Region')['Date'].min().reset_index()
@@ -167,5 +156,7 @@ plt.text(
 )
 plt.tight_layout()
 plt.savefig(os.path.join(visualizations_folder, "rollout_vs_deaths.png"))
-
+outliers = analysis_df.sort_values('Days_To_Rollout', ascending=False).head(2)
+print("Countries with the latest vaccine rollouts (potential outliers):")
+print(outliers)
 print(f"\nAll visualizations have been attempted to be saved in the '{visualizations_folder}' folder.")
